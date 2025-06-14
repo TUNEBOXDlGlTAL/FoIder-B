@@ -2915,12 +2915,6 @@ https://tunebox.space/i̇i̇travel&taste
 
 
 
-#EXTINF:-1 tvg-id="712.astro" ch-number="712" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/warnertv.png",712 WARNER TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇warner
-
 
 #EXTINF:-1 tvg-id="714.astro" group-title="MALAYSlA;DOCUMENTARY" ch-number="714" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crime&investigation.png",714 CRIME & INVESTIGATION
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3018,7 +3012,7 @@ https://tunebox.space/i̇i̇bola2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="805.astro" group-title="MALAYSlA;SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sportsuhd.png",805 SUPERSPORT UHD
+#EXTINF:-1 tvg-id="805.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/sportsuhd.png",805 SUPERSPORT UHD
 https://tunebox.space/i̇i̇supersportsuhd
 
 
@@ -3043,7 +3037,7 @@ https://tunebox.space/i̇i̇grandstand
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇0premierleague
+https://tunebox.space/i̇i̇premierleague
 
 
 
@@ -3105,7 +3099,7 @@ https://tunebox.space/i̇i̇sportsplus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇bein1
+https://tunebox.space/i̇i̇bein
 
 
 #EXTINF:-1 tvg-id="821.astro" ch-number="821" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein2.png" group-title="MALAYSlA;SPORTS",821 BEIN SPORTS 2
@@ -3154,7 +3148,7 @@ https://tunebox.space/i̇i̇eurosport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nNXA0eVMIuA12I3Twd/ITA","kid":"AQy7nPGgHq04Bwcw04vHEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://tunebox.space/i̇i̇wsport
+https://tunebox.space/i̇i̇wsports
 
 
 
