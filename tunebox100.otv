@@ -3457,7 +3457,7 @@ http://cord-cutter.net:8080/live/23290078/13941299/172481.ts
 
 
 
-#EXTINF:0 CUID="1767" tvg-name="BET" tvg-id="BET.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bet.png" group-title="ENTERTAlNMENT",BET USA
+#EXTINF:0 CUID="1767" tvg-name="BET" tvg-id="BET.us@East" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bet.png" group-title="ENTERTAlNMENT",BET USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/BET_EAST/tracks-v1a1/mono.m3u8
 
@@ -4066,7 +4066,7 @@ https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:0 CUID="37" tvg-name="Black Visionaries" tvg-id="663946c1b18d700008d9c168" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/blackvisionaries.png" group-title="MOVlES",Black Visionaries
 https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 
-#EXTINF:0 CUID="38" tvg-name="Classic Movies Channel" tvg-id="561c5b0dada51f8004c4d855" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicmovieschannel.png" group-title="MOVlES",Classic Movies Channel
+#EXTINF:0 CUID="38" tvg-name="Classic Movies Channel" tvg-id="561c5b0dada51f8004c4d855" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicmovies.png" group-title="MOVlES",Classic Movies Channel
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 
 #EXTINF:0 CUID="39" tvg-name="Flicks of Fury" tvg-id="58e55b14ad8e9c364d55f717" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/flickoffury.png" group-title="MOVlES",Flicks of Fury
@@ -4078,7 +4078,7 @@ https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 #EXTINF:0 CUID="41" tvg-name="Paramount Movie Channel" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paramount.png" group-title="MOVlES",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
-#EXTINF:0 CUID="42" tvg-name="MOVIES 007" tvg-id="5d4db961034718b2f52f9e52" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movies007.png" group-title="MOVlES",MOVIES 007
+#EXTINF:0 CUID="42" tvg-name="MOVIES 007" tvg-id="5d4db961034718b2f52f9e52" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/007.png" group-title="MOVlES",MOVIES 007
 https://jmp2.uk/plu-5d4db961034718b2f52f9e52.m3u8
 
 #EXTINF:0 CUID="43" tvg-name="MOVIES Action" tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/action.png" group-title="MOVlES",MOVIES Action
@@ -4105,19 +4105,19 @@ https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 #EXTINF:0 CUID="50" tvg-name="MOVIES Westerns" tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutowestern.png" group-title="MOVlES",MOVIES Westerns
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 
-#EXTINF:0 CUID="51" tvg-name="Universal Monsters" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/universalmonster.png" group-title="MOVlES",Universal Monsters
+#EXTINF:0 CUID="51" tvg-name="Universal Monsters" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/universemonsters.png" group-title="MOVlES",Universal Monsters
 https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
 
 #EXTINF:0 CUID="52" tvg-name="Hallmark Movies & More Holiday Favorites" tvg-id="628e685ba3811100070551a8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hallmarkmovies&more.png" group-title="MOVlES",Hallmark Movies & More Holiday Favorites
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 
-#EXTINF:0 CUID="53" tvg-name="Holiday Movie Favorites By Lifetime" tvg-id="63335b193583440007c859fb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/holidaymoviefavorites.png" group-title="MOVlES",Holiday Movie Favorites By Lifetime
+#EXTINF:0 CUID="53" tvg-name="Holiday Movie Favorites By Lifetime" tvg-id="63335b193583440007c859fb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/holidaymoviefavourites.png" group-title="MOVlES",Holiday Movie Favorites By Lifetime
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 
 #EXTINF:0 CUID="54" tvg-name="Paramount+ Picks" tvg-id="5ff8c708653d080007361b14" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paramount.png" group-title="MOVlES",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 
-#EXTINF:0 CUID="55" tvg-name="Classic Movie Westerns" tvg-id="61f33318210549000806a530" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicmoviewestern.png" group-title="MOVlES",Classic Movie Westerns
+#EXTINF:0 CUID="55" tvg-name="Classic Movie Westerns" tvg-id="61f33318210549000806a530" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/westerntv.png" group-title="MOVlES",Classic Movie Westerns
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 
 #EXTINF:0 CUID="56" tvg-name="Gunsmoke" tvg-id="60f75771dfc72a00071fd0e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gunsmoke.png" group-title="MOVlES",Gunsmoke
@@ -4132,7 +4132,7 @@ https://jmp2.uk/plu-65a6dafb7bdc8d0008473c85.m3u8
 #EXTINF:0 CUID="59" tvg-name="The Rifleman" tvg-id="5e825550e758c700077b0aef" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/therifleman.png" group-title="MOVlES",The Rifleman
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 
-#EXTINF:0 CUID="60" tvg-name="The Wild Wild West" tvg-id="664e640a0120f40008be4582" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thewildwildwest.png" group-title="MOVlES",The Wild Wild West
+#EXTINF:0 CUID="60" tvg-name="The Wild Wild West" tvg-id="664e640a0120f40008be4582" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wildwildwest.png" group-title="MOVlES",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 
 #EXTINF:0 CUID="61" tvg-name="Wanted: Dead or Alive" tvg-id="6089788de5c8410007808e26" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wanteddeadoralive.png" group-title="MOVlES",Wanted: Dead or Alive
@@ -4141,19 +4141,19 @@ https://jmp2.uk/plu-6089788de5c8410007808e26.m3u8
 #EXTINF:0 CUID="62" tvg-name="Western TV" tvg-id="5e8df4bc16e34700077e77d3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/westerntv.png" group-title="MOVlES",Western TV
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 
-#EXTINF:0 CUID="63" tvg-name="Wild West TV" tvg-id="6661f88f3d173b000845958c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wildwesttv.png" group-title="MOVlES",Wild West TV
+#EXTINF:0 CUID="63" tvg-name="Wild West TV" tvg-id="6661f88f3d173b000845958c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wildwestv.png" group-title="MOVlES",Wild West TV
 https://jmp2.uk/plu-6661f88f3d173b000845958c.m3u8
 
-#EXTINF:0 CUID="64" tvg-name="Classica" tvg-id="5f779951372da90007fd45e8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classica.png" group-title="MOVlES",Classica
+#EXTINF:0 CUID="64" tvg-name="Classica" tvg-id="5f779951372da90007fd45e8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classico.png" group-title="MOVlES",Classica
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 
 #EXTINF:0 CUID="65" tvg-name="CMT Equal Play" tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cmt.png" group-title="MOVlES",CMT Equal Play
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 
-#EXTINF:0 CUID="66" tvg-name="MOVIES Sci-Fi" tvg-id="5b4fc274694c027be6ed3eea" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moviesscifi.png" group-title="MOVlES",MOVIES Sci-Fi
+#EXTINF:0 CUID="66" tvg-name="MOVIES Sci-Fi" tvg-id="5b4fc274694c027be6ed3eea" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutoscifi.png" group-title="MOVlES",MOVIES Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 
-#EXTINF:0 CUID="67" tvg-name="Alien Nation by DUST" tvg-id="66621ed08ea5560008fde7c9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aliennationbydust.png" group-title="MOVlES",Alien Nation by DUST
+#EXTINF:0 CUID="67" tvg-name="Alien Nation by DUST" tvg-id="66621ed08ea5560008fde7c9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aliennation.png" group-title="MOVlES",Alien Nation by DUST
 https://jmp2.uk/plu-66621ed08ea5560008fde7c9.m3u8
 
 #EXTINF:0 CUID="68" tvg-name="Doctor Who Classic" tvg-id="5ce4475cd43850831ca91ce7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/doctorwho.png" group-title="MOVlES",Doctor Who Classic
@@ -4523,10 +4523,10 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn.mpd
 #EXTINF:0 CUID="169" tvg-name="Baywatch" tvg-id="5d815eb889bca2ce7b746fdd" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/baywatch.png" group-title="DRAMA",Baywatch
 https://jmp2.uk/plu-5d815eb889bca2ce7b746fdd.m3u8
 
-#EXTINF:0 CUID="170" tvg-name="BET x Tyler Perry Drama" tvg-id="666b38a5efa2a10008b15b3a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/betxtylerperrydrama.png" group-title="DRAMA",BET x Tyler Perry Drama
+#EXTINF:0 CUID="170" tvg-name="BET x Tyler Perry Drama" tvg-id="666b38a5efa2a10008b15b3a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tylerperrydrama.png" group-title="DRAMA",BET x Tyler Perry Drama
 https://jmp2.uk/plu-666b38a5efa2a10008b15b3a.m3u8
 
-#EXTINF:0 CUID="171" tvg-name="Beverly Hills 90210" tvg-id="5f4d83e0a382c00007bc02e7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beverlyhills.png" group-title="DRAMA",Beverly Hills 90210
+#EXTINF:0 CUID="171" tvg-name="Beverly Hills 90210" tvg-id="5f4d83e0a382c00007bc02e7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/90210.png" group-title="DRAMA",Beverly Hills 90210
 https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
 
 #EXTINF:0 CUID="172" tvg-name="Blue Bloods" tvg-id="61b3b8c645b45d0007a9bb8d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bluebloods.png" group-title="DRAMA",Blue Bloods
@@ -4553,7 +4553,7 @@ https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
 #EXTINF:0 CUID="179" tvg-name="Degrassi" tvg-id="5c6eeb85c05dfc257e5a50c4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/degrassi.png" group-title="DRAMA",Degrassi
 https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
 
-#EXTINF:0 CUID="180" tvg-name="Ebony TV Drama" tvg-id="6675c713fc3a46000863dde7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ebonytvdrama.png" group-title="DRAMA",Ebony TV Drama
+#EXTINF:0 CUID="180" tvg-name="Ebony TV Drama" tvg-id="6675c713fc3a46000863dde7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ebonytv.png" group-title="DRAMA",Ebony TV Drama
 https://jmp2.uk/plu-6675c713fc3a46000863dde7.m3u8
 
 #EXTINF:0 CUID="181" tvg-name="Feel Good Drama" tvg-id="65775af3b3801200084a3aa4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/feelgooddrama.png" group-title="DRAMA",Feel Good Drama
@@ -4565,7 +4565,7 @@ https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
 #EXTINF:0 CUID="183" tvg-name="ION" tvg-id="65453f30085df200085883d8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ion.png" group-title="DRAMA",ION
 https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
 
-#EXTINF:0 CUID="184" tvg-name="Midsomer Murders" tvg-id="5cbf6a868a1bce4a3d52a5e9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/midsomermurders.png" group-title="DRAMA",Midsomer Murders
+#EXTINF:0 CUID="184" tvg-name="Midsomer Murders" tvg-id="5cbf6a868a1bce4a3d52a5e9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/midsomermurder.png" group-title="DRAMA",Midsomer Murders
 https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8
 
 #EXTINF:0 CUID="185" tvg-name="More Crime Drama" tvg-id="650b6905d1f20c0008586b0c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/morecrimedrama.png" group-title="DRAMA",More Crime Drama
@@ -4577,10 +4577,10 @@ https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 #EXTINF:0 CUID="187" tvg-name="Nash Bridges" tvg-id="6675c742ca74680008566b88" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nashbridges.png" group-title="DRAMA",Nash Bridges
 https://jmp2.uk/plu-6675c742ca74680008566b88.m3u8
 
-#EXTINF:0 CUID="188" tvg-name="DRAMA SERIES Crime Drama" tvg-id="5f31fd1b4c510e00071c3103" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramaseriescrimedrama.png" group-title="DRAMA",DRAMA SERIES Crime Drama
+#EXTINF:0 CUID="188" tvg-name="DRAMA SERIES Crime Drama" tvg-id="5f31fd1b4c510e00071c3103" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crimedrama.png" group-title="DRAMA",DRAMA SERIES Crime Drama
 https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
 
-#EXTINF:0 CUID="189" tvg-name="Stories by AMC" tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/amc.png" group-title="DRAMA",Stories by AMC
+#EXTINF:0 CUID="189" tvg-name="Stories by AMC" tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/storiesbyamc.png" group-title="DRAMA",Stories by AMC
 https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
 
 #EXTINF:0 CUID="190" tvg-name="Supernatural Drama" tvg-id="5f24662bebe0f0000767de32" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supernaturaldrama.png" group-title="DRAMA",Supernatural Drama
@@ -4598,10 +4598,10 @@ https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:0 CUID="194" tvg-name="Universal Action" tvg-id="654933e253fc970008390114" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/universalaction.png" group-title="DRAMA",Universal Action
 https://jmp2.uk/plu-654933e253fc970008390114.m3u8
 
-#EXTINF:0 CUID="76" tvg-name="ENTERTAINMENT Drama" tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutodrama.png" group-title="DRAMA",ENTERTAINMENT Drama
+#EXTINF:0 CUID="76" tvg-name="ENTERTAINMENT Drama" tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/entertainmentdrama.png" group-title="DRAMA",ENTERTAINMENT Drama
 https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
 
-#EXTINF:0 CUID="75" tvg-name="ENTERTAINMENT Comedy" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutocomedy.png" group-title="DRAMA",ENTERTAINMENT Comedy
+#EXTINF:0 CUID="75" tvg-name="ENTERTAINMENT Comedy" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/entertainmentcomedy.png" group-title="DRAMA",ENTERTAINMENT Comedy
 https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
 
 #EXTINF:0 CUID="78" tvg-name="ENTERTAINMENT Reaction" tvg-id="617b37b361e0fd0008cfd8c5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/reaction.png" group-title="DRAMA",ENTERTAINMENT Reaction
@@ -4616,16 +4616,16 @@ https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
 #EXTINF:0 CUID="81" tvg-name="ENTERTAINMENT Staff Picks" tvg-id="5f4d863b98b41000076cd061" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/staffpicks.png" group-title="DRAMA",ENTERTAINMENT Staff Picks
 https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 
-#EXTINF:0 CUID="123" tvg-name="Beverly Hillbillies" tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beverlyhillbillies.png" group-title="DRAMA",Beverly Hillbillies
+#EXTINF:0 CUID="123" tvg-name="Beverly Hillbillies" tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hillybillies.png" group-title="DRAMA",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 
-#EXTINF:0 CUID="124" tvg-name="Black Classics" tvg-id="60f85644a9493e0007a1f035" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/blackclassic.png" group-title="DRAMA",Black Classics
+#EXTINF:0 CUID="124" tvg-name="Black Classics" tvg-id="60f85644a9493e0007a1f035" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/blackclassics.png" group-title="DRAMA",Black Classics
 https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
 
-#EXTINF:0 CUID="125" tvg-name="Classic Movies Channel" tvg-id="66df6c7bdd2d690008c21b66" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicmovieschannel.png" group-title="DRAMA",Classic Movies Channel
+#EXTINF:0 CUID="125" tvg-name="Classic Movies Channel" tvg-id="66df6c7bdd2d690008c21b66" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicmovies.png" group-title="DRAMA",Classic Movies Channel
 https://jmp2.uk/plu-66df6c7bdd2d690008c21b66.m3u8
 
-#EXTINF:0 CUID="126" tvg-name="Classic TV Comedy" tvg-id="5f15e32b297f96000768f928" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutocomedy.png" group-title="DRAMA",Classic TV Comedy
+#EXTINF:0 CUID="126" tvg-name="Classic TV Comedy" tvg-id="5f15e32b297f96000768f928" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classictvcomedy.png" group-title="DRAMA",Classic TV Comedy
 https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
 
 #EXTINF:0 CUID="127" tvg-name="Classic TV Crime Drama" tvg-id="61325c4f982acd000723287e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classictvcrimedrama.png" group-title="DRAMA",Classic TV Crime Drama
@@ -4637,7 +4637,7 @@ https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
 #EXTINF:0 CUID="129" tvg-name="Classic TV Variety" tvg-id="64d1867c6b1fdb0008c6c95b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classictvvarietytv.png" group-title="DRAMA",Classic TV Variety
 https://jmp2.uk/plu-64d1867c6b1fdb0008c6c95b.m3u8
 
-#EXTINF:0 CUID="130" tvg-name="Classic TV: Families" tvg-id="61325d18f5166c00081b84e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/families.png" group-title="DRAMA",Classic TV: Families
+#EXTINF:0 CUID="130" tvg-name="Classic TV: Families" tvg-id="61325d18f5166c00081b84e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classictvfamilies.png" group-title="DRAMA",Classic TV: Families
 https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 
 
