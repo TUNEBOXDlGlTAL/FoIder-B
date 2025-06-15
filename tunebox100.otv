@@ -3714,12 +3714,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/flik.png" group-title="MOVlES" tvg-id="Flik.id" tvg-name="", FLIK
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 
 
@@ -3776,10 +3770,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/imc.png",IMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 
 #EXTINF:-1 group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemaworld.png",CINEMAWORLD ID
@@ -3825,30 +3815,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 tvg-id="KIX.id" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/kix.png",KIX ID
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
-https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
-
-#EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/celestialmovies.png" group-title="MOVlES",CELESTIAL MOVIES ID
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
-
-#EXTINF:-1 tvg-id="SONY.MAX.in" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sonymax.png",SONY MAX ID
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
-https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
-
-
-#EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvnmovies.png" group-title="MOVlES",TVN MOVIES ID
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
-https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
 #EXTINF:-1 tvg-id="ONE.HD.id" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/one.png",ONE ID
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -3962,7 +3928,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thril.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-#EXTINF:-1 tvg-id="429734" tvg-name="ROCK EXTREME HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rockaction.png" group-title="MOVlES",ROCK ACTION
+#EXTINF:-1 tvg-id="429734" tvg-name="ROCK EXTREME HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rockaction.png" group-title="MOVlES",ROCK EXTREME PH
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 
