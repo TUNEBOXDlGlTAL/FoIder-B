@@ -4505,125 +4505,125 @@ https://fl3.moveonjoy.com/DISNEY_XD/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/NICK_JR/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1843" tvg-name="NICKTOONS" tvg-id="Nicktoons.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/nick.png" group-title="KlDS",NICKTOONS USA
+#EXTINF:0 CUID="1843" tvg-name="NICKTOONS" tvg-id="Nicktoons.ch" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nicktoons.png" group-title="KlDS",NICKTOONS USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl1.moveonjoy.com/NICKTOONS/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="6452c814939a590008567a3b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" group-title="KlDS", 90's Kids
+#EXTINF:-1 tvg-id="6452c814939a590008567a3b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/90skids.png" group-title="KlDS", 90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 
-#EXTINF:-1 tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60faffc3fbbc120007fc4376.png" group-title="KlDS", Baby Shark TV
+#EXTINF:-1 tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/babyshark.png" group-title="KlDS", Baby Shark TV
 https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
 
-#EXTINF:-1 tvg-id="60493283ffc52f000710edae" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60493283ffc52f000710edae.png" group-title="KlDS", Bebecito Bum y sus amigos
+#EXTINF:-1 tvg-id="60493283ffc52f000710edae" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bebecito.png" group-title="KlDS", Bebecito Bum y sus amigos
 https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
 
-#EXTINF:-1 tvg-id="66fedd65d7de140008dccd66" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/66fedd65d7de140008dccd66.png" group-title="KlDS", El Reino Infantil
+#EXTINF:-1 tvg-id="66fedd65d7de140008dccd66" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/elreinoinfantil.png" group-title="KlDS", El Reino Infantil
 https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
 
-#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/56171fafada51f8004c4b40f.png" group-title="KlDS", Forever Kids
+#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foreverkids.png" group-title="KlDS", Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 
-#EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60faf9ddfcc1f200070a5932.png" group-title="KlDS", Garfield and Friends
+#EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/garfield.png" group-title="KlDS", Garfield and Friends
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
 
-#EXTINF:-1 tvg-id="667f3852efa2a10008e1e514" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/667f3852efa2a10008e1e514.png" group-title="KlDS", Go Go Gadget!
+#EXTINF:-1 tvg-id="667f3852efa2a10008e1e514" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gogogadget.png" group-title="KlDS", Go Go Gadget!
 https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
 
-#EXTINF:-1 tvg-id="60fafef7c2440500071266e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60fafef7c2440500071266e0.png" group-title="KlDS", Grande-ish
+#EXTINF:-1 tvg-id="60fafef7c2440500071266e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/grandelish.png" group-title="KlDS", Grande-ish
 https://jmp2.uk/plu-60fafef7c2440500071266e0.m3u8
 
-#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60fb040d4795a6000762fe8f.png" group-title="KlDS", Kartoon Channel!
+#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kartoonchannel.png" group-title="KlDS", Kartoon Channel!
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 
-#EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5db0ad56edc89300090d2ebb.png" group-title="KlDS", Kids Movie Club
+#EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kidsmovieclub.png" group-title="KlDS", Kids Movie Club
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 
-#EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60fb01a24795a6000762fe83.png" group-title="KlDS", LEGO Kids TV
+#EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lego.png" group-title="KlDS", LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 
-#EXTINF:-1 tvg-id="5eb301b7395671000780d100" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5eb301b7395671000780d100.png" group-title="KlDS", Little Angel's Playroom
+#EXTINF:-1 tvg-id="5eb301b7395671000780d100" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/littleangel.png" group-title="KlDS", Little Angel's Playroom
 https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
 
-#EXTINF:-1 tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/51c75f7bb6f26ba1cd00002f.png" group-title="KlDS", Little Stars Universe
+#EXTINF:-1 tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/littlestarsuniverse.png" group-title="KlDS", Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 
-#EXTINF:-1 tvg-id="65e23f340d4561000821540d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/65e23f340d4561000821540d.png" group-title="KlDS", Mister Rogers' Neighborhood
+#EXTINF:-1 tvg-id="65e23f340d4561000821540d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/misterrogersneigbourhood.png" group-title="KlDS", Mister Rogers' Neighborhood
 https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
 
-#EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5ca6748a37b88b269472dad9.png" group-title="KlDS", Nick Jr. KIDS
+#EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickjr.png" group-title="KlDS", Nick Jr. KIDS
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
-#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5d8d08395f39465da6fb3ec4.png" group-title="KlDS", Nickelodeon en español
+#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickelodeon.png" group-title="KlDS", Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 
-#EXTINF:-1 tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5ca673e0d0bd6c2689c94ce3.png" group-title="KlDS", Nickelodeon KIDS
+#EXTINF:-1 tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickelodeon.png" group-title="KlDS", Nickelodeon KIDS
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
-#EXTINF:-1 tvg-id="5db0ae5af8797b00095c0794" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5db0ae5af8797b00095c0794.png" group-title="KlDS", No Parents Allowed
+#EXTINF:-1 tvg-id="5db0ae5af8797b00095c0794" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/noparentallowed.png" group-title="KlDS", No Parents Allowed
 https://jmp2.uk/plu-5db0ae5af8797b00095c0794.m3u8
 
-#EXTINF:-1 tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" group-title="KlDS", Peppa Pig
+#EXTINF:-1 tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/peppapig.png" group-title="KlDS", Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 
-#EXTINF:-1 tvg-id="5dae0a40e8ee0d000975e99b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5dae0a40e8ee0d000975e99b.png" group-title="KlDS", pocket.watch Game-On
+#EXTINF:-1 tvg-id="5dae0a40e8ee0d000975e99b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pocketwatch.png" group-title="KlDS", pocket.watch Game-On
 https://jmp2.uk/plu-5dae0a40e8ee0d000975e99b.m3u8
 
-#EXTINF:-1 tvg-id="6675c7868768aa0008d7f1c7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/6675c7868768aa0008d7f1c7.png" group-title="KlDS", Pokémon
+#EXTINF:-1 tvg-id="6675c7868768aa0008d7f1c7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pokemon.png" group-title="KlDS", Pokémon
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
-#EXTINF:-1 tvg-id="60fb028c2e6a0c00075275a5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60fb028c2e6a0c00075275a5.png" group-title="KlDS", Rainbow Squad
+#EXTINF:-1 tvg-id="60fb028c2e6a0c00075275a5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rainbowsquad.png" group-title="KlDS", Rainbow Squad
 https://jmp2.uk/plu-60fb028c2e6a0c00075275a5.m3u8
 
-#EXTINF:-1 tvg-id="5fb584b7613a31000789de5a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5fb584b7613a31000789de5a.png" group-title="KlDS", Ryan and Friends
+#EXTINF:-1 tvg-id="5fb584b7613a31000789de5a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ryanfriends.png" group-title="KlDS", Ryan and Friends
 https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
 
-#EXTINF:-1 tvg-id="667f393836a2f90008fd17c0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/667f393836a2f90008fd17c0.png" group-title="KlDS", Strawberry Shortcake and Friends
+#EXTINF:-1 tvg-id="667f393836a2f90008fd17c0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/strawberryshortcake.png" group-title="KlDS", Strawberry Shortcake and Friends
 https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
 
-#EXTINF:-1 tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60f9ebb06f0b3d000746fbdb.png" group-title="KlDS", Team Spirit
+#EXTINF:-1 tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/teamspirit.png" group-title="KlDS", Team Spirit
 https://jmp2.uk/plu-60f9ebb06f0b3d000746fbdb.m3u8
 
-#EXTINF:-1 tvg-id="6450209d939a5900084dba1d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/6450209d939a5900084dba1d.png" group-title="KlDS", Totally Teen
+#EXTINF:-1 tvg-id="6450209d939a5900084dba1d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/totallyteen.png" group-title="KlDS", Totally Teen
 https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 
-#EXTINF:-1 tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5d0c16d686454ead733d08f8.png" group-title="KlDS", TOTALLY TURTLES
+#EXTINF:-1 tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/totallyturtles.png" group-title="KlDS", TOTALLY TURTLES
 https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 
-#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60fb053712f22a0007ff14d2.png" group-title="KlDS", Transformers TV
+#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/transformers.png" group-title="KlDS", Transformers TV
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 
-#EXTINF:-1 tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/6452c77ed3fdde00080eb3a8.png" group-title="KlDS", Zoom! Zoom!
+#EXTINF:-1 tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/zoomzoom.png" group-title="KlDS", Zoom! Zoom!
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 
 
-#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5c3f8f12a93c2d61b9990a4e.png" group-title="KlDS", TokuSHOUTsu
+#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tokushoutsu.png" group-title="KlDS", TokuSHOUTsu
 https://jmp2.uk/plu-5c3f8f12a93c2d61b9990a4e.m3u8
 
 
-#EXTINF:-1 tvg-id="6532e7fa045c3d0008514ca7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/6532e7fa045c3d0008514ca7.png" group-title="KlDS", Warner Bros. TV Sweet Escapes
+#EXTINF:-1 tvg-id="6532e7fa045c3d0008514ca7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/warner.png" group-title="KlDS", Warner Bros. TV Sweet Escapes
 https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
 
-#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5812b7d3249444e05d09cc49.png" group-title="KlDS", Anime All Day
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animeallday.png" group-title="KlDS", Anime All Day
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 
-#EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/65652f7fc0fc88000883537a.png" group-title="KlDS", Crunchyroll
+#EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crunchyroll.png" group-title="KlDS", Crunchyroll
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 
-#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60f74ba51c82ac000776c669/colorLogoPNG-1731951032051.png" group-title="KlDS", Lupin the 3rd
+#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lupin.png" group-title="KlDS", Lupin the 3rd
 https://jmp2.uk/plu-60f74ba51c82ac000776c669.m3u8
 
-#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5da0c85bd2c9c10009370984.png" group-title="KlDS", Naruto
+#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/naruto.png" group-title="KlDS", Naruto
 https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
 
-#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" group-title="KlDS", One Piece
+#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/onepiece.png" group-title="KlDS", One Piece
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
 
-#EXTINF:-1 tvg-id="637e55347427a40007fac703" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/637e55347427a40007fac703.png" group-title="KlDS", Sailor Moon
+#EXTINF:-1 tvg-id="637e55347427a40007fac703" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sailormoon.png" group-title="KlDS", Sailor Moon
 https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
 
-#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5f4ec10ed9636f00089b8c89.png" group-title="KlDS", Yu-Gi-Oh!
+#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/yugioh.png" group-title="KlDS", Yu-Gi-Oh!
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
 
