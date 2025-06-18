@@ -1930,7 +1930,7 @@ CODE:403-FORBIDDEN
 
 
 
-#EXTM3U x-tvg-url="https://tunebox.space/epgsooka, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://tunebox.space/epgunifi, https://tunebox.space/epgastro, https://tunebox.space/epgrtm, https://tunebox.space/epgindo, https://tunebox.space/epgsg, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_ID.xml.gz, https://bit.ly/moj-epg, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://i.mjh.nz/PlutoTV/all.xml" vod_library="https://tunebox.space/i̇i̇vod, https://tunebox.space/i̇i̇addon" 
+#EXTM3U x-tvg-url="https://tunebox.space/epgsooka, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://tunebox.space/epgunifi, https://tunebox.space/epgastro, https://tunebox.space/epgrtm, https://tunebox.space/epgindo, https://tunebox.space/epgsg, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_ID.xml.gz, https://bit.ly/moj-epg, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://i.mjh.nz/PlutoTV/all.xml" vod_library="https://tunebox.space/i̇i̇vod, https://tunebox.space/i̇i̇addon" 
 
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="MALAYSlA",101 TV1
@@ -3054,11 +3054,6 @@ https://tunebox.space/i̇i̇premierleague2
 
 
 #EXTINF:-1 tvg-id="Premier.League.Dummy.us" ch-number="813" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague3.png" group-title="MALAYSlA;SPORTS",813 PREMIER LEAGUE 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 https://tunebox.space/i̇i̇premierleague3
 
 
@@ -3741,7 +3736,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
-#EXTINF:-1 group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonymax.png",SONY MAX ID
+#EXTINF:-1 tvg-id="SONY.MAX.in" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonymax.png",SONY MAX ID
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
@@ -3772,7 +3767,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemaworld.png",CINEMAWORLD ID
+#EXTINF:-1 tvg-id="Cinema.World.id" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemaworld.png",CINEMAWORLD ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
@@ -3947,7 +3942,7 @@ http://143.44.136.111:6910/001/2/ch00000090990000001244/manifest.mpd?virtualDoma
 
 
 
-#EXTINF:0 CUID="1763" tvg-name="AMC" tvg-id="AMC.cz" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/amc.png" group-title="MOVlES",AMC USA
+#EXTINF:0 CUID="1763" tvg-name="AMC" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/amc.png" group-title="MOVlES",AMC USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl5.moveonjoy.com/AMC_NETWORK/tracks-v1a1/mono.m3u8
 
@@ -3962,19 +3957,19 @@ https://fl3.moveonjoy.com/CRAVE_2/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/CRAVE_4/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1814" tvg-name="HALLMARK MOVIES MYSTERIES" tvg-id="HallmarkMoviesMysteries.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hallmarkchannel.png" group-title="MOVlES",HALLMARK MOVIES MYSTERIES USA
+#EXTINF:0 CUID="1814" tvg-name="HALLMARK MOVIES MYSTERIES" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hallmarkchannel.png" group-title="MOVlES",HALLMARK MOVIES MYSTERIES USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1821" tvg-name="LIFETIME MOVIES" tvg-id="Lifetime.hk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/lifetimemovies.png" group-title="MOVlES",LIFETIME MOVIES USA
+#EXTINF:0 CUID="1821" tvg-name="LIFETIME MOVIES" tvg-id="Lifetime.Movies.-.East.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/lifetimemovies.png" group-title="MOVlES",LIFETIME MOVIES USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1845" tvg-name="OUTERMAX" tvg-id="OuterMax.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/outermax.png" group-title="MOVlES",OUTERMAX USA
+#EXTINF:0 CUID="1845" tvg-name="OUTERMAX" tvg-id="OuterMax.east.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/outermax.png" group-title="MOVlES",OUTERMAX USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/OUTER_MAX/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1854" tvg-name="SHOWTIME 2" tvg-id="Showtime2.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtime2.png" group-title="MOVlES",SHOWTIME 2 USA
+#EXTINF:0 CUID="1854" tvg-name="SHOWTIME 2" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtime2.png" group-title="MOVlES",SHOWTIME 2 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/SHOWTIME_2/tracks-v1a1/mono.m3u8
 
@@ -3982,7 +3977,7 @@ https://fl3.moveonjoy.com/SHOWTIME_2/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1856" tvg-name="SHOWTIME NEXT" tvg-id="ShowtimeNext.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtimenext.png" group-title="MOVlES",SHOWTIME NEXT USA
+#EXTINF:0 CUID="1856" tvg-name="SHOWTIME NEXT" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtimenext.png" group-title="MOVlES",SHOWTIME NEXT USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.m3u8
 
@@ -3990,19 +3985,19 @@ https://fl3.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1858" tvg-name="SHOWTIME WOMEN" tvg-id="ShowtimeWomen.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtimewomen.png" group-title="MOVlES",SHOWTIME WOMEN USA
+#EXTINF:0 CUID="1858" tvg-name="SHOWTIME WOMEN" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtimewomen.png" group-title="MOVlES",SHOWTIME WOMEN USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/SHOWTIME_WOMEN/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1863" tvg-name="STARZ" tvg-id="STAR.gr" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starz.png" group-title="MOVlES",STARZ USA
+#EXTINF:0 CUID="1863" tvg-name="STARZ" tvg-id="Starz.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starz.png" group-title="MOVlES",STARZ USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/STARZ/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1864" tvg-name="STARZ ENCORE CLASSIC" tvg-id="StarzEncoreClassic.us@East" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/starzencoreclassic.png" group-title="MOVlES",STARZ ENCORE CLASSIC USA
+#EXTINF:0 CUID="1864" tvg-name="STARZ ENCORE CLASSIC" tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/starzencoreclassic.png" group-title="MOVlES",STARZ ENCORE CLASSIC USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1806" tvg-name="FXM" tvg-id="FXM.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/fxm.png" group-title="MOVlES",FXM USA
+#EXTINF:0 CUID="1806" tvg-name="FXM" tvg-id="FX.Movie.Channel.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/fxm.png" group-title="MOVlES",FXM USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
 
@@ -4022,27 +4017,27 @@ https://fl3.moveonjoy.com/INSP/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/LIFETIME/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1824" tvg-name="MGM+" tvg-id="MGMPlus.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mgm.png" group-title="MOVlES",MGM+ USA
+#EXTINF:0 CUID="1824" tvg-name="MGM+" tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mgm.png" group-title="MOVlES",MGM+ USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/EPIX/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1825" tvg-name="MGM+ MARQUEE" tvg-id="MGMPlusMarquee.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mgm+marquee.png" group-title="MOVlES",MGM+ MARQUEE USA
+#EXTINF:0 CUID="1825" tvg-name="MGM+ MARQUEE" tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mgm+marquee.png" group-title="MOVlES",MGM+ MARQUEE USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/EPIX_DRIVE_IN/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1866" tvg-name="SUNDANCE TV" tvg-id="SundanceTV.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sundancetv.png" group-title="MOVlES",SUNDANCE TV USA
+#EXTINF:0 CUID="1866" tvg-name="SUNDANCE TV" tvg-id="SundanceTV.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sundancetv.png" group-title="MOVlES",SUNDANCE TV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/SUNDANCE/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1867" tvg-name="SYFY" tvg-id="Syfy.be" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/syfy.png" group-title="MOVlES",SYFY USA
+#EXTINF:0 CUID="1867" tvg-name="SYFY" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/syfy.png" group-title="MOVlES",SYFY USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/SYFY/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1876" tvg-name="UP TV" tvg-id="UpTV.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/uptv.png" group-title="MOVlES",UP TV
+#EXTINF:0 CUID="1876" tvg-name="UP TV" tvg-id="UP.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/uptv.png" group-title="MOVlES",UP TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/Up_Tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1880" tvg-name="WE TV" tvg-id="WeTV.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/wetv.png" group-title="MOVlES",WE TV USA
+#EXTINF:0 CUID="1880" tvg-name="WE TV" tvg-id="WE.(Women&apos;s.Entertainment).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/wetv.png" group-title="MOVlES",WE TV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl1.moveonjoy.com/WE_TV/tracks-v1a1/mono.m3u8
 
@@ -4182,199 +4177,6 @@ https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 
 #EXTINF:0 CUID="137" tvg-name="Mission Impossible" tvg-id="5f77977bd924d80007eee60c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/missionimposible.png" group-title="MOVlES",Mission Impossible
 https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
-
-
-#EXTINF:0 ch-number="445" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skycinemafamily.png" group-title="MOVlES",SKY CINEMA FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53699.ts
-
-
-
-#EXTINF:0 ch-number="399" tvg-name="SKY CINEMA ACTION FHD" tvg-id="Sky.Action.uk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skycinemaaction.png" group-title="MOVlES",SKY CINEMA ACTION FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35254.ts
-
-
-
-
-
-
-#EXTINF:0 ch-number="401" tvg-name="SKY CINEMA SCIFI & HORROR FHD" tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skycinemascifi&horror.png" group-title="MOVlES",SKY CINEMA SCIFI & HORROR FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35248.ts
-
-#EXTINF:0 ch-number="402" tvg-name="SKY COMEDY" tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skycinemacomedy.png" group-title="MOVlES",SKY COMEDY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35253.ts
-
-#EXTINF:0 ch-number="403" tvg-name="SKY CRIME THRILLER" tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skycinemathriller.png" group-title="MOVlES",SKY CRIME THRILLER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35252.ts
-
-#EXTINF:0 ch-number="404" tvg-name="SKY GREATS" tvg-id="Sky.Greats.uk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skycinemagreats.png" group-title="MOVlES",SKY GREATS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35249.ts
-
-#EXTINF:0 ch-number="446" tvg-name="SKY CINEMA PREMIER" tvg-id="Sky.Premiere.uk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skycinemapremiere.png" group-title="MOVlES",SKY CINEMA PREMIER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35256.ts
-
-#EXTINF:0 ch-number="463" tvg-name="SONY MOVIES FHD" tvg-id="Sony.Movies.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sonymovies.png" group-title="MOVlES",SONY MOVIES FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/2214.ts
-
-#EXTINF:0 ch-number="468" tvg-name="LIFETIME MOVIES" tvg-id="Lifetime.Movies.-.East.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/lifetimemovies.png" group-title="MOVlES",LIFETIME MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/20863.ts
-
-#EXTINF:0 ch-number="472" tvg-name="STARZ ENCORE BLACK" tvg-id="Starz.Encore.Black.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/encoreblack.png" group-title="MOVlES",STARZ ENCORE BLACK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/16141.ts
-
-#EXTINF:0 ch-number="508" tvg-name="SHOWTIME NEXT" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtimenext.png" group-title="MOVlES",SHOWTIME NEXT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9316.ts
-
-#EXTINF:0 ch-number="509" tvg-name="STARZ EDGE" tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starzedge.png" group-title="MOVlES",STARZ EDGE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/16143.ts
-
-#EXTINF:0 ch-number="513" tvg-name="5STARMAX" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/5starmax.png" group-title="MOVlES",5STARMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/13381.ts
-
-#EXTINF:0 ch-number="518" tvg-name="ACTIONMAX (EAST)" tvg-id="ActionMax.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/actionmax.png" group-title="MOVlES",ACTIONMAX (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/21013.ts
-
-#EXTINF:0 ch-number="542" tvg-name="CINEMAX (EAST)" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemax.png" group-title="MOVlES",CINEMAX (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/13380.ts
-
-#EXTINF:0 ch-number="563" tvg-name="EPIX (EAST)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/epix.png" group-title="MOVlES",EPIX (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/13214.ts
-
-#EXTINF:0 ch-number="564" tvg-name="EPIX DRIVE IN (S)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/epixdrivein.png" group-title="MOVlES",EPIX DRIVE IN (S)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/14193.ts
-
-#EXTINF:0 ch-number="565" tvg-name="EPIX HITS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/epixhits.png" group-title="MOVlES",EPIX HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/12744.ts
-
-#EXTINF:0 ch-number="566" tvg-name="EPIX2 (EAST)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/epix2.png" group-title="MOVlES",EPIX2 (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/12730.ts
-
-#EXTINF:0 ch-number="594" tvg-name="HBO" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbo.png" group-title="MOVlES",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9264.ts
-
-#EXTINF:0 ch-number="595" tvg-name="HBO 2 (A)" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbo2.png" group-title="MOVlES",HBO 2 (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9816.ts
-
-#EXTINF:0 ch-number="596" tvg-name="HBO COMEDY (EAST)" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbocomedy.png" group-title="MOVlES",HBO COMEDY (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/17773.ts
-
-#EXTINF:0 ch-number="597" tvg-name="HBO FAMILY (EAST)" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbofamily.png" group-title="MOVlES",HBO FAMILY (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/17772.ts
-
-#EXTINF:0 ch-number="598" tvg-name="HBO SIGNATURE (EAST)" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbosignature.png" group-title="MOVlES",HBO SIGNATURE (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9266.ts
-
-#EXTINF:0 ch-number="599" tvg-name="HBO ZONE (EAST)" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbozone.png" group-title="MOVlES",HBO ZONE (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9265.ts
-
-#EXTINF:0 ch-number="600" tvg-name="HDNET MOVIES" tvg-id="HDNet.Movies.HD.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hdnetmovies.png" group-title="MOVlES",HDNET MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/16265.ts
-
-#EXTINF:0 ch-number="618" tvg-name="MORE MAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/moremax.png" group-title="MOVlES",MORE MAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/17776.ts
-
-#EXTINF:0 ch-number="620" tvg-name="MOVIEMAX (EAST)" tvg-id="MovieMax.(Max.6).-.East.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/moviemax.png" group-title="MOVlES",MOVIEMAX (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/13480.ts
-
-#EXTINF:0 ch-number="621" tvg-name="MOVIEPLEX (EAST)" tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/movieplex.png" group-title="MOVlES",MOVIEPLEX (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/1829.ts
-
-#EXTINF:0 ch-number="642" tvg-name="CINEMAX OUTERMAX (X)" tvg-id="OuterMax.east.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/outermax.png" group-title="MOVlES",CINEMAX OUTERMAX (X)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/21012.ts
-
-#EXTINF:0 ch-number="653" tvg-name="RETROPLEX (EAST)" tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/retroplex.png" group-title="MOVlES",RETROPLEX (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/66379.ts
-
-#EXTINF:0 ch-number="659" tvg-name="SHOWTIME EAST" tvg-id="Showtime.Showcase.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtime.png" group-title="MOVlES",SHOWTIME EAST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/46214.ts
-
-#EXTINF:0 ch-number="660" tvg-name="SHOWTIME 2 (EAST) (H)" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtime2.png" group-title="MOVlES",SHOWTIME 2 (EAST) (H)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/13219.ts
-
-#EXTINF:0 ch-number="661" tvg-name="SHOWTIME EXTREME (EAST) (SP)" tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtimeextreme.png" group-title="MOVlES",SHOWTIME EXTREME (EAST) (SP)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/13220.ts
-
-#EXTINF:0 ch-number="662" tvg-name="SHOWTIME FAMILY ZONE (EAST)" tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtimefamily.png" group-title="MOVlES",SHOWTIME FAMILY ZONE (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/13481.ts
-
-#EXTINF:0 ch-number="663" tvg-name="SHOWTIME WOMEN (EAST)" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/showtimewomen.png" group-title="MOVlES",SHOWTIME WOMEN (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/17778.ts
-
-#EXTINF:0 ch-number="667" tvg-name="STARZ CINEMA (EAST)" tvg-id="Starz.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starzcinema.png" group-title="MOVlES",STARZ CINEMA (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/17775.ts
-
-#EXTINF:0 ch-number="668" tvg-name="STARZ CINEMA (EAST)" tvg-id="Starz.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starzcinema.png" group-title="MOVlES",STARZ CINEMA (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9301.ts
-
-#EXTINF:0 ch-number="669" tvg-name="STARZ EAST (S)" tvg-id="Starz.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starz.png" group-title="MOVlES",STARZ EAST (S)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9299.ts
-
-#EXTINF:0 ch-number="670" tvg-name="STARZ ENCORE WESTERNS (EAST)" tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/encorewestern.png" group-title="MOVlES",STARZ ENCORE WESTERNS (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/16263.ts
-
-#EXTINF:0 ch-number="671" tvg-name="STARZ IN BLACK (EAST)" tvg-id="Starz.In.Black.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starzinblack.png" group-title="MOVlES",STARZ IN BLACK (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/17779.ts
-
-#EXTINF:0 ch-number="672" tvg-name="STARZ WEST (S)" tvg-id="Starz.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starzwest.png" group-title="MOVlES",STARZ WEST (S)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/21091.ts
-
-#EXTINF:0 ch-number="679" tvg-name="THRILLERMAX (EAST)" tvg-id="ThrillerMax.-.East.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/thrillermax.png" group-title="MOVlES",THRILLERMAX (EAST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/17774.ts
-
-#EXTINF:0 ch-number="427" tvg-name="FILM 4" tvg-id="Film4.hu" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/4film.png" group-title="MOVlES",FILM 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53702.ts
-
-#EXTINF:0 ch-number="447" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skycinemacomedy.png" group-title="MOVlES",SKY CINEMA COMEDY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53661.ts
-
-#EXTINF:0 ch-number="456" tvg-name="SKY SCIFI FHD (D)" tvg-id="SciFi.hr" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skyscifi.png" group-title="MOVlES",SKY SCIFI FHD (D)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53663.ts
-
 
 
 
