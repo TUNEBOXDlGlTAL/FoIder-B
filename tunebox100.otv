@@ -6652,7 +6652,7 @@ https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
-#EXTINF:-1 tvg-id="BBC.WORLD.NEWS.PH" tvg-name="BBC NEWS"  tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bbcnews.png" group-title="NEWS",BBC NEWS PH
+#EXTINF:-1 tvg-id="BBC.WORLD.NEWS.PH" tvg-name="BBC NEWS"  tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcnews.png" group-title="NEWS",BBC NEWS PH
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news.mpd
 
 
@@ -6664,7 +6664,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news.mpd
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
 
 
-#EXTINF:0 CUID="1853" tvg-name="REVOLT" tvg-id="Revolt.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/revolt.png" group-title="NEWS",REVOLT
+#EXTINF:0 CUID="1853" tvg-name="REVOLT" tvg-id="Revolt.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/revolt.png" group-title="NEWS",REVOLT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/REVOLT/tracks-v1a1/mono.m3u8
 
@@ -6676,19 +6676,16 @@ https://fl1.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/BBC_AMERICA/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1766" tvg-name="BBC NEWS NORTH AMERICA" tvg-id="BBC.News.-.North.America.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bbcnews.png" group-title="NEWS",BBC NEWS NORTH AMERICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/BBC_WORLD_NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 CUID="1773" tvg-name="BLOOMBERG TV" tvg-id="Bloomberg.TV.bg" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bloomberg.png" group-title="NEWS",BLOOMBERG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/BLOOMBERG/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1777" tvg-name="C-SPAN" tvg-id="CSPAN.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cspan.png" group-title="NEWS",C-SPAN
+#EXTINF:0 CUID="1777" tvg-name="C-SPAN" tvg-id="CSPAN.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cspan.png" group-title="NEWS",C-SPAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/C-SPAN/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1778" tvg-name="CBS" tvg-id="CBS.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cbs.png" group-title="NEWS",CBS USA
+#EXTINF:0 CUID="1778" tvg-name="CBS" tvg-id="CBS.us@East" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cbs.png" group-title="NEWS",CBS USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/CBS_News/tracks-v1a1/mono.m3u8
 
@@ -6696,39 +6693,24 @@ https://fl3.moveonjoy.com/CBS_News/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1798" tvg-name="ESPNEWS" tvg-id="ESPNews.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espn.png" group-title="NEWS",ESPNEWS
+#EXTINF:0 CUID="1798" tvg-name="ESPNEWS" tvg-id="ESPNews.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="NEWS",ESPNEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1799" tvg-name="FOX BUSINESS NETWORK" tvg-id="FoxBusinessNetwork.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/foxbusiness.png" group-title="NEWS",FOX BUSINESS NETWORK
+#EXTINF:0 CUID="1799" tvg-name="FOX BUSINESS NETWORK" tvg-id="FoxBusinessNetwork.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxbusiness.png" group-title="NEWS",FOX BUSINESS NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1800" tvg-name="FOX NEWS CHANNEL" tvg-id="FOXNewsChannel.au" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/foxnews.png" group-title="NEWS",FOX NEWS CHANNEL
+#EXTINF:0 CUID="1800" tvg-name="FOX NEWS CHANNEL" tvg-id="FOXNewsChannel.au" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxnews.png" group-title="NEWS",FOX NEWS CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl6.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1819" tvg-name="KSAT-DT2" tvg-id="ksat.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ksat-dt2.png" group-title="NEWS",KSAT-DT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/ME_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 CUID="1837" tvg-name="NEWS NATION" tvg-id="NewsNation.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/newsnation.png" group-title="NEWS",NEWS NATION
+#EXTINF:0 CUID="1837" tvg-name="NEWS NATION" tvg-id="NewsNation.us@East" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/newsnation.png" group-title="NEWS",NEWS NATION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/NEWS_NATION/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1881" tvg-name="WGN-DT1" tvg-id="wgn.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/wgndt1.png" group-title="NEWS",WGN-DT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/WGN/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1882" tvg-name="WNBC-DT1" tvg-id="wnbc.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/wnbcdt1.png" group-title="NEWS",WNBC-DT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl1.moveonjoy.com/NBC_EAST/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 CUID="1883" tvg-name="WNYW-DT1" tvg-id="wnyw.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/wnymdt1.png" group-title="NEWS",WNYW-DT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl1.moveonjoy.com/FOX_EAST/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 CUID="1885" tvg-name="YES NETWORK" tvg-id="YesNetwork.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/yes.png" group-title="NEWS",YES NETWORK
+#EXTINF:0 CUID="1885" tvg-name="YES NETWORK" tvg-id="YesNetwork.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/yesnetwork.png" group-title="NEWS",YES NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/YES_NETWORK/tracks-v1a1/mono.m3u8
 
@@ -6740,8 +6722,7 @@ https://fl3.moveonjoy.com/YES_NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="196" tvg-name="ABC News Live" tvg-id="6508be683a0d700008c534e4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/abcnewslive.png" group-title="NEWS",ABC News Live
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 
-#EXTINF:0 CUID="197" tvg-name="America's Voice News" tvg-id="5e1f7da4bc7d740009831259" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/americavoicenews.png" group-title="NEWS",America's Voice News
-https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
+
 
 #EXTINF:0 CUID="198" tvg-name="BBC News" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcnews.png" group-title="NEWS",BBC News
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
@@ -6782,8 +6763,7 @@ https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8
 #EXTINF:0 CUID="210" tvg-name="Newsmax2" tvg-id="55b179af994403942f3061d6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/newsmax.png" group-title="NEWS",Newsmax2
 https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
 
-#EXTINF:0 CUID="211" tvg-name="OAN Plus" tvg-id="5e7cf6c7b156d500078c5f44" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/oanplus.png" group-title="NEWS",OAN Plus
-https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8
+
 
 #EXTINF:0 CUID="214" tvg-name="Sky News PLUTO" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skynews.png" group-title="NEWS",Sky News PLUTO
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
@@ -6797,117 +6777,6 @@ https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
 #EXTINF:0 CUID="217" tvg-name="WeatherNation" tvg-id="5bdce04659ee03633e758130" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/weathernation.png" group-title="NEWS",WeatherNation
 https://jmp2.uk/plu-5bdce04659ee03633e758130.m3u8
 
-#EXTINF:0 ch-number="5220" tvg-name="F1TV DATA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/f1tvdark.png" group-title="NEWS",F1TV DATA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135044.ts
-
-#EXTINF:0 ch-number="5221" tvg-name="F1TV PIT LANE" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/f1tvpitlanecamera.png" group-title="NEWS",F1TV PIT LANE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135045.ts
-
-#EXTINF:0 ch-number="5222" tvg-name="F1TV TRACKER" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/f1tvtrackercamera.png" group-title="NEWS",F1TV TRACKER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135046.ts
-
-#EXTINF:0 ch-number="5223" tvg-name="F1TV FERNANDO ALONSO HELMET CAMERA" group-title="NEWS",F1TV FERNANDO ALONSO HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135047.ts
-
-#EXTINF:0 ch-number="5224" tvg-name="F1TV VALTTERI BOTTAS HELMET CAMERA" group-title="NEWS",F1TV VALTTERI BOTTAS HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135048.ts
-
-#EXTINF:0 ch-number="5225" tvg-name="F1TV PIERRE GASLY HELMET CAMERA" group-title="NEWS",F1TV PIERRE GASLY HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135049.ts
-
-#EXTINF:0 ch-number="5226" tvg-name="F1TV ANTONIO GIOVINAZZI HELMET CAMERA" group-title="NEWS",F1TV ANTONIO GIOVINAZZI HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135050.ts
-
-#EXTINF:0 ch-number="5227" tvg-name="F1TV LEWIS HAMILTON HELMET CAMERA" group-title="NEWS",F1TV LEWIS HAMILTON HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135051.ts
-
-#EXTINF:0 ch-number="5228" tvg-name="F1TV NICHOLAS LATIFI HELMET CAMERA" group-title="NEWS",F1TV NICHOLAS LATIFI HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135052.ts
-
-#EXTINF:0 ch-number="5229" tvg-name="F1TV CHARLES LECLERC HELMET CAMERA" group-title="NEWS",F1TV CHARLES LECLERC HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135053.ts
-
-#EXTINF:0 ch-number="5230" tvg-name="F1TV NIKITA MAZEPIN HELMET CAMERA" group-title="NEWS",F1TV NIKITA MAZEPIN HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135054.ts
-
-#EXTINF:0 ch-number="5231" tvg-name="F1TV MICK SCHUMACHER HELMET CAMERA" group-title="NEWS",F1TV MICK SCHUMACHER HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135055.ts
-
-#EXTINF:0 ch-number="5232" tvg-name="F1TV LANDO NORRIS HELMET CAMERA" group-title="NEWS",F1TV LANDO NORRIS HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135056.ts
-
-#EXTINF:0 ch-number="5233" tvg-name="F1TV ESTEBAN OCON HELMET CAMERA" group-title="NEWS",F1TV ESTEBAN OCON HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135057.ts
-
-#EXTINF:0 ch-number="5234" tvg-name="F1TV SERGIO PEREZ HELMET CAMERA" group-title="NEWS",F1TV SERGIO PEREZ HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135058.ts
-
-#EXTINF:0 ch-number="5235" tvg-name="F1TV KIMI RAIKKONEN HELMET CAMERA" group-title="NEWS",F1TV KIMI RAIKKONEN HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135059.ts
-
-#EXTINF:0 ch-number="5236" tvg-name="F1TV DANIEL RICCIARDO HELMET CAMERA" group-title="NEWS",F1TV DANIEL RICCIARDO HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135060.ts
-
-#EXTINF:0 ch-number="5237" tvg-name="F1TV GEORGE RSELL HELMET CAMERA" group-title="NEWS",F1TV GEORGE RSELL HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135061.ts
-
-#EXTINF:0 ch-number="5238" tvg-name="F1TV CARLOS SAINZ HELMET CAMERA" group-title="NEWS",F1TV CARLOS SAINZ HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135062.ts
-
-#EXTINF:0 ch-number="5239" tvg-name="F1TV LANCE STROLL HELMET CAMERA" group-title="NEWS",F1TV LANCE STROLL HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135063.ts
-
-#EXTINF:0 ch-number="5240" tvg-name="F1TV YI TSUNODA HELMET CAMERA" group-title="NEWS",F1TV YI TSUNODA HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135064.ts
-
-#EXTINF:0 ch-number="5241" tvg-name="F1TV MAX VERSTAPPEN HELMET CAMERA" group-title="NEWS",F1TV MAX VERSTAPPEN HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135065.ts
-
-#EXTINF:0 ch-number="5242" tvg-name="F1TV SEBASTIAN VETTEL HELMET CAMERA" group-title="NEWS",F1TV SEBASTIAN VETTEL HELMET CAMERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135066.ts
-
-#EXTINF:0 ch-number="253" tvg-name="CBSN NEW YORK (D)" tvg-id="cbs2wcbsnewyork.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cbsnnewyork.png" group-title="NEWS",CBSN NEW YORK (D)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/46754.ts
-
-#EXTINF:0 ch-number="6474" tvg-name="BLACK NEWS CHANNEL (A)" tvg-id="sbla.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/blacknewschannel.png" group-title="NEWS",BLACK NEWS CHANNEL (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/176811.ts
-
-#EXTINF:0 ch-number="6401" tvg-name="NEWSNATION" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/newsnation.png" group-title="NEWS",NEWSNATION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/161450.ts
-
-#EXTINF:0 ch-number="448" tvg-name="SKY NEWS" tvg-id="Sky.News.cz" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skynews.png" group-title="NEWS",SKY NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/77166.ts
-
-#EXTINF:0 ch-number="5219" tvg-name="CBS JTICE" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cbsjustice.png" group-title="NEWS",CBS JTICE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/134942.ts
 
 
 
