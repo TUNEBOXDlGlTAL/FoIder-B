@@ -5523,7 +5523,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/COMET/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1792" tvg-name="CURIOSITYSTREAM" tvg-id="Curiosity.Stream.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/curiosity.png" group-title="DOCUMENTARY",CURIOSITY STREAM USA
+#EXTINF:0 CUID="1792" tvg-name="CURIOSITYSTREAM" tvg-id="Curiosity.Stream.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/curiositystream.png" group-title="DOCUMENTARY",CURIOSITY STREAM USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/Curiosity_Stream/tracks-v1a1/mono.m3u8
 
@@ -5595,13 +5595,13 @@ https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
 #EXTINF:0 CUID="7" tvg-name="Forensic Files" tvg-id="5bb1af6a268cae539bcedb0a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/forensicfiles.png" group-title="DOCUMENTARY",Forensic Files
 https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 
-#EXTINF:0 CUID="8" tvg-name="More True Crime" tvg-id="6532e6a9bdf3cf000887ab29" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/truecrime.png" group-title="DOCUMENTARY",More True Crime
+#EXTINF:0 CUID="8" tvg-name="More True Crime" tvg-id="6532e6a9bdf3cf000887ab29" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moretruecrime.png" group-title="DOCUMENTARY",More True Crime
 https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
 
 #EXTINF:0 CUID="9" tvg-name="Oxygen True Crime Archives" tvg-id="654930a8346f420008d3b0b8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/oxygen.png" group-title="DOCUMENTARY",Oxygen True Crime Archives
 https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
 
-#EXTINF:0 CUID="10" tvg-name="DOCUMENTARY True Crime" tvg-id="5812be1c249444e05d09cc50" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/documentarytruecrime.png" group-title="DOCUMENTARY",DOCUMENTARY True Crime
+#EXTINF:0 CUID="10" tvg-name="DOCUMENTARY True Crime" tvg-id="5812be1c249444e05d09cc50" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/truecrime.png" group-title="DOCUMENTARY",DOCUMENTARY True Crime
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 
 #EXTINF:0 CUID="11" tvg-name="The New Detectives" tvg-id="5aea40b35126c2157123aa64" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thenewdetectives.png" group-title="DOCUMENTARY",The New Detectives
@@ -5610,7 +5610,7 @@ https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
 #EXTINF:0 CUID="12" tvg-name="Unsolved Mysteries" tvg-id="5b4e96a0423e067bd6df6901" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/unsolvedmysteries.png" group-title="DOCUMENTARY",Unsolved Mysteries
 https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
 
-#EXTINF:0 CUID="13" tvg-name="PBS Genealogy" tvg-id="65a6db580d9ab400080e6ab6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbsgenealogy.png" group-title="DOCUMENTARY",PBS Genealogy
+#EXTINF:0 CUID="13" tvg-name="PBS Genealogy" tvg-id="65a6db580d9ab400080e6ab6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbsgenelogy.png" group-title="DOCUMENTARY",PBS Genealogy
 https://jmp2.uk/plu-65a6db580d9ab400080e6ab6.m3u8
 
 #EXTINF:0 CUID="14" tvg-name="DOCUMENTARY History" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutohistory.png" group-title="DOCUMENTARY",DOCUMENTARY History
@@ -5625,7 +5625,7 @@ https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 #EXTINF:0 CUID="17" tvg-name="DOCUMENTARY Travel" tvg-id="59c01b1953680139c6ae9d4d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/travel.png" group-title="DOCUMENTARY",DOCUMENTARY Travel
 https://jmp2.uk/plu-59c01b1953680139c6ae9d4d.m3u8
 
-#EXTINF:0 CUID="18" tvg-name="Real Disaster Channel" tvg-id="64d2b6bf9b414d0008187d83" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disasterchannel.png" group-title="DOCUMENTARY",Real Disaster Channel
+#EXTINF:0 CUID="18" tvg-name="Real Disaster Channel" tvg-id="64d2b6bf9b414d0008187d83" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/realdisaster.png" group-title="DOCUMENTARY",Real Disaster Channel
 https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
 
 #EXTINF:0 CUID="19" tvg-name="Smithsonian Channel Selects" tvg-id="5f21ea08007a49000762d349" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/smithsonianchannel.png" group-title="DOCUMENTARY",Smithsonian Channel Selects
@@ -5634,10 +5634,10 @@ https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:0 CUID="20" tvg-name="60 Minutes" tvg-id="66b646f9cd0d3100086af83c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60minutes.png" group-title="DOCUMENTARY",60 Minutes
 https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
 
-#EXTINF:0 CUID="22" tvg-name="Modern Marvels Presented by HISTORY" tvg-id="65775d29dfed030008cb3db2" group-title="DOCUMENTARY",Modern Marvels Presented by HISTORY
+#EXTINF:0 CUID="22" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/modernmarvels.png" tvg-name="Modern Marvels Presented by HISTORY" tvg-id="65775d29dfed030008cb3db2" group-title="DOCUMENTARY",Modern Marvels Presented by HISTORY
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
 
-#EXTINF:0 CUID="23" tvg-name="MythBusters" tvg-id="66e0b4866ad04d0008fff4d8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mythbuster.png" group-title="DOCUMENTARY",MythBusters
+#EXTINF:0 CUID="23" tvg-name="MythBusters" tvg-id="66e0b4866ad04d0008fff4d8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mythbusters.png" group-title="DOCUMENTARY",MythBusters
 https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
 
 #EXTINF:0 CUID="24" tvg-name="BBC Earth" tvg-id="656535fc2c46f30008870fae" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcearth.png" group-title="DOCUMENTARY",BBC Earth
@@ -5652,7 +5652,7 @@ https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
 #EXTINF:0 CUID="27" tvg-name="Dogs 24/7" tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dogs247.png" group-title="DOCUMENTARY",Dogs 24/7
 https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb.m3u8
 
-#EXTINF:0 CUID="28" tvg-name="EarthDay 365" tvg-id="650b69cfd1f20c0008586bac" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/earthdays365.png" group-title="DOCUMENTARY",EarthDay 365
+#EXTINF:0 CUID="28" tvg-name="EarthDay 365" tvg-id="650b69cfd1f20c0008586bac" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/earthday365.png" group-title="DOCUMENTARY",EarthDay 365
 https://jmp2.uk/plu-650b69cfd1f20c0008586bac.m3u8
 
 #EXTINF:0 CUID="29" tvg-name="Naturescape" tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/natureescape.png" group-title="DOCUMENTARY",Naturescape
@@ -6652,7 +6652,7 @@ https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
-#EXTINF:-1 tvg-id="BBC.WORLD.NEWS.PH" tvg-name="BBC NEWS"  tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcnews.png" group-title="NEWS",BBC NEWS PH
+#EXTINF:-1 tvg-id="BBC.WORLD.NEWS.PH" tvg-name="BBC NEWS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcworldnews.png" group-title="NEWS",BBC NEWS PH
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news.mpd
 
 
@@ -6685,9 +6685,6 @@ https://fl3.moveonjoy.com/BLOOMBERG/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/C-SPAN/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1778" tvg-name="CBS" tvg-id="CBS.us@East" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cbs.png" group-title="NEWS",CBS USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/CBS_News/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 CUID="1782" tvg-name="CNBC" tvg-id="CNBC.cy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cnbc.png" group-title="NEWS",CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -6719,15 +6716,15 @@ https://fl3.moveonjoy.com/YES_NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="195" tvg-name="CNA PLUTO HD" tvg-id="CNA.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cna.png" group-title="NEWS",CNA PLUTO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#EXTINF:0 CUID="196" tvg-name="ABC News Live" tvg-id="6508be683a0d700008c534e4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/abcnewslive.png" group-title="NEWS",ABC News Live
+#EXTINF:0 CUID="196" tvg-name="ABC News Live" tvg-id="6508be683a0d700008c534e4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/abcnews.png" group-title="NEWS",ABC News Live
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 
 
 
-#EXTINF:0 CUID="198" tvg-name="BBC News" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcnews.png" group-title="NEWS",BBC News
+#EXTINF:0 CUID="198" tvg-name="BBC News" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcworldnews.png" group-title="NEWS",BBC News
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 
-#EXTINF:0 CUID="199" tvg-name="Blaze Live" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/blazelive.png" group-title="NEWS",Blaze Live
+#EXTINF:0 CUID="199" tvg-name="Blaze Live" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/blaze.png" group-title="NEWS",Blaze Live
 https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
 
 #EXTINF:0 CUID="200" tvg-name="Bloomberg TV" tvg-id="54ff7ba69222cb1c2624c584" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bloombergtv.png" group-title="NEWS",Bloomberg TV
@@ -6754,13 +6751,13 @@ https://jmp2.uk/plu-5421f71da6af422839419cb3.m3u8
 #EXTINF:0 CUID="207" tvg-name="FOX Weather" tvg-id="640a68880e884c0009979cc2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxweather.png" group-title="NEWS",FOX Weather
 https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
 
-#EXTINF:0 CUID="208" tvg-name="LiveNOW from FOX" tvg-id="63d025db4e83e700086eaa96" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/livenowfromfox.png" group-title="NEWS",LiveNOW from FOX
+#EXTINF:0 CUID="208" tvg-name="LiveNOW from FOX" tvg-id="63d025db4e83e700086eaa96" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/livenow.png" group-title="NEWS",LiveNOW from FOX
 https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
 
 #EXTINF:0 CUID="209" tvg-name="NBC News NOW" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nbcnewsnow.png" group-title="NEWS",NBC News NOW
 https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8
 
-#EXTINF:0 CUID="210" tvg-name="Newsmax2" tvg-id="55b179af994403942f3061d6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/newsmax.png" group-title="NEWS",Newsmax2
+#EXTINF:0 CUID="210" tvg-name="Newsmax2" tvg-id="55b179af994403942f3061d6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/newsmax2.png" group-title="NEWS",Newsmax2
 https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
 
 
@@ -6771,8 +6768,6 @@ https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:0 CUID="215" tvg-name="The First" tvg-id="5d486acc34ceb37d3c458a64" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thefirst.png" group-title="NEWS",The First
 https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
 
-#EXTINF:0 CUID="216" tvg-name="TODAY All Day" tvg-id="5d695f7db53adf96b78e7ce3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/todayallday.png" group-title="NEWS",TODAY All Day
-https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
 
 #EXTINF:0 CUID="217" tvg-name="WeatherNation" tvg-id="5bdce04659ee03633e758130" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/weathernation.png" group-title="NEWS",WeatherNation
 https://jmp2.uk/plu-5bdce04659ee03633e758130.m3u8
@@ -6911,103 +6906,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001181/manifest.mpd?virtualDoma
 
 
 
-#EXTINF:0 ch-number="405" tvg-name="RTE NEWS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rtenews.png" group-title="LlFESTYLE",RTE NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/79108.ts
-
-#EXTINF:0 ch-number="406" tvg-name="5" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/5.png" group-title="LlFESTYLE",5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53675.ts
-
-#EXTINF:0 ch-number="407" tvg-name="ALIBI" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/alibi.png" group-title="LlFESTYLE",ALIBI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/59030.ts
-
-#EXTINF:0 ch-number="408" tvg-name="BBC NEWS" tvg-id="BBC.NEWS.fr" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bbcnews.png" group-title="LlFESTYLE",BBC NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53757.ts
-
-#EXTINF:0 ch-number="409" tvg-name="BBC ONE" tvg-id="BBC.One.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bbcone.png" group-title="LlFESTYLE",BBC ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53649.ts
-
-#EXTINF:0 ch-number="410" tvg-name="BBC ONE SCOTLAND" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bbconescotland.png" group-title="LlFESTYLE",BBC ONE SCOTLAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53755.ts
-
-#EXTINF:0 ch-number="411" tvg-name="BBC TWO HD" tvg-id="BBC.Two.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bbctwo.png" group-title="LlFESTYLE",BBC TWO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53650.ts
-
-#EXTINF:0 ch-number="412" tvg-name="BLAZE" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/blaze.png" group-title="LlFESTYLE",BLAZE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53754.ts
-
-#EXTINF:0 ch-number="413" tvg-name="BOOMERANG" tvg-id="Boomerang.au" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/boomerang.png" group-title="LlFESTYLE",BOOMERANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53718.ts
-
-#EXTINF:0 ch-number="414" tvg-name="CARTOON NETWORK" tvg-id="Cartoon.Network.be" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cartoonnetwork.png" group-title="LlFESTYLE",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53719.ts
-
-#EXTINF:0 ch-number="415" tvg-name="CBBC" tvg-id="BBC.B.dk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cbbc.png" group-title="LlFESTYLE",CBBC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53720.ts
-
-#EXTINF:0 ch-number="416" tvg-name="CBS REALITY" tvg-id="CBS.REALITY.cz" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cbsreality.png" group-title="LlFESTYLE",CBS REALITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53752.ts
-
-#EXTINF:0 ch-number="417" tvg-name="CHANNEL 5" tvg-id="Channel.4.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/channel5.png" group-title="LlFESTYLE",CHANNEL 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53653.ts
-
-#EXTINF:0 ch-number="418" tvg-name="COMEDY CENTRAL" tvg-id="COMEDY.CENTRAL.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/comedycentral.png" group-title="LlFESTYLE",COMEDY CENTRAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53660.ts
-
-#EXTINF:0 ch-number="425" tvg-name="E4" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/e4.png" group-title="LlFESTYLE",E4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53672.ts
-
-
-
-#EXTINF:0 ch-number="431" tvg-name="ITV" tvg-id="ITV.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/itv.png" group-title="LlFESTYLE",ITV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53651.ts
-
-#EXTINF:0 ch-number="432" tvg-name="ITV 3" tvg-id="ITV.3.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/itv3.png" group-title="LlFESTYLE",ITV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53665.ts
-
-#EXTINF:0 ch-number="433" tvg-name="ITV 4" tvg-id="ITV.4.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/itv4.png" group-title="LlFESTYLE",ITV 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53666.ts
-
-#EXTINF:0 ch-number="434" tvg-name="ITV2 HD" tvg-id="ITV.2.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/itv2.png" group-title="LlFESTYLE",ITV2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53671.ts
-
-#EXTINF:0 ch-number="435" tvg-name="MORE4" tvg-id="More.4.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/more4.png" group-title="LlFESTYLE",MORE4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53673.ts
-
-#EXTINF:0 ch-number="441" tvg-name="NICKELODEON" tvg-id="Nickelodeon.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/nickelodeon.png" group-title="LlFESTYLE",NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53728.ts
-
-#EXTINF:0 ch-number="457" tvg-name="POP" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/pop.png" group-title="LlFESTYLE",POP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53730.ts
-
-#EXTINF:0 ch-number="458" tvg-name="TLC" tvg-id="TLC.ba" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tlc.png" group-title="LlFESTYLE",TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53681.ts
-
-#EXTINF:0 ch-number="1732" tvg-name="CHANNEL 4" tvg-id="Channel.4.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/channel4.png" group-title="LlFESTYLE",CHANNEL 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/99138.ts
 
 
 
