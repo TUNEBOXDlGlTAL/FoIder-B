@@ -3511,7 +3511,7 @@ https://jmp2.uk/plu-65775e07dfed030008cb3f47.m3u8
 #EXTINF:0 CUID="83" tvg-name="BET Her" tvg-id="5d51e6949ab8e2b35bdcaa9f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutobether.png" group-title="ENTERTAlNMENT",BET Her
 https://jmp2.uk/plu-5d51e6949ab8e2b35bdcaa9f.m3u8
 
-#EXTINF:0 CUID="84" tvg-name="BET ENTERTAlNMENT" tvg-id="5ca670f6593a5d78f0e85aed" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/betentertainment.png" group-title="ENTERTAlNMENT",BET ENTERTAINMENT
+#EXTINF:0 CUID="84" tvg-name="BET ENTERTAlNMENT" tvg-id="5ca670f6593a5d78f0e85aed" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bet.png" group-title="ENTERTAlNMENT",BET ENTERTAINMENT
 https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
 
 #EXTINF:0 CUID="85" tvg-name="Bounce XL" tvg-id="6176fd25e83a5f0007a464c9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bouncexl.png" group-title="ENTERTAlNMENT",Bounce XL
@@ -3526,8 +3526,6 @@ https://jmp2.uk/plu-5dc0c78281eddb0009a02d5e.m3u8
 #EXTINF:0 CUID="88" tvg-name="FOX SOUL" tvg-id="60fb2c9c663b130008945ad0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsoul.png" group-title="ENTERTAlNMENT",FOX SOUL
 https://jmp2.uk/plu-60fb2c9c663b130008945ad0.m3u8
 
-#EXTINF:0 CUID="89" tvg-name="StarTalk TV" tvg-id="65775a88b3801200084a39ed" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/startalktv.png" group-title="ENTERTAlNMENT",StarTalk TV
-https://jmp2.uk/plu-65775a88b3801200084a39ed.m3u8
 
 #EXTINF:0 CUID="90" tvg-name="Warner Bros. TV Say Yes to the Dress" tvg-id="6532e8342cf13100083b404c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/warnertv.png" group-title="ENTERTAlNMENT",Warner Bros. TV Say Yes to the Dress
 https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8
@@ -3541,133 +3539,128 @@ https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
 #EXTINF:0 CUID="94" tvg-name="Best of Dr. Phil" tvg-id="60f760bbdf090700075d7bfe" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/drphill.png" group-title="ENTERTAlNMENT",Best of Dr. Phil
 https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8
 
-#EXTINF:0 CUID="95" tvg-name="Best of The Drew Barrymore Show" tvg-id="61858ac0491af10007f8ce4f" tvg-logo="https://images.pluto.tv/channels/61858ac0491af10007f8ce4f/colorLogoPNG_1731835761264.png" group-title="ENTERTAlNMENT",Best of The Drew Barrymore Show
-https://jmp2.uk/plu-61858ac0491af10007f8ce4f.m3u8
 
-#EXTINF:0 CUID="96" tvg-name="Confess by Nosey" tvg-id="634ee8f95aa9870007248333" tvg-logo="https://images.pluto.tv/channels/634ee8f95aa9870007248333/colorLogoPNG.png" group-title="ENTERTAlNMENT",Confess by Nosey
-https://jmp2.uk/plu-634ee8f95aa9870007248333.m3u8
-
-#EXTINF:0 CUID="97" tvg-name="Hot Bench" tvg-id="6036e6e7ac69c400072afca2" tvg-logo="https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG_1731835667408.png" group-title="ENTERTAlNMENT",Hot Bench
+#EXTINF:0 CUID="97" tvg-name="Hot Bench" tvg-id="6036e6e7ac69c400072afca2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hotbench.png" group-title="ENTERTAlNMENT",Hot Bench
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
 
-#EXTINF:0 CUID="98" tvg-name="HSN" tvg-id="5f8a02476b72230007e62b7d" tvg-logo="https://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG-1675271320133.png" group-title="ENTERTAlNMENT",HSN
+#EXTINF:0 CUID="98" tvg-name="HSN" tvg-id="5f8a02476b72230007e62b7d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hsn.png" group-title="ENTERTAlNMENT",HSN
 https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8
 
-#EXTINF:0 CUID="99" tvg-name="Judge Nosey" tvg-id="5e9decb953e157000752321c" tvg-logo="https://images.pluto.tv/channels/5e9decb953e157000752321c/colorLogoPNG.png" group-title="ENTERTAlNMENT",Judge Nosey
+#EXTINF:0 CUID="99" tvg-name="Judge Nosey" tvg-id="5e9decb953e157000752321c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/judgenosey.png" group-title="ENTERTAlNMENT",Judge Nosey
 https://jmp2.uk/plu-5e9decb953e157000752321c.m3u8
 
-#EXTINF:0 CUID="100" tvg-name="Nosey" tvg-id="5aec96ec5126c2157123c657" tvg-logo="https://images.pluto.tv/channels/5aec96ec5126c2157123c657/colorLogoPNG.png" group-title="ENTERTAlNMENT",Nosey
+#EXTINF:0 CUID="100" tvg-name="Nosey" tvg-id="5aec96ec5126c2157123c657" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nosey.png" group-title="ENTERTAlNMENT",Nosey
 https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
 
-#EXTINF:0 CUID="101" tvg-name="QVC" tvg-id="5bdcdf1e851dd5632e2c11d1" tvg-logo="https://images.pluto.tv/channels/5bdcdf1e851dd5632e2c11d1/colorLogoPNG.png" group-title="ENTERTAlNMENT",QVC
+#EXTINF:0 CUID="101" tvg-name="QVC" tvg-id="5bdcdf1e851dd5632e2c11d1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/qvc.png" group-title="ENTERTAlNMENT",QVC
 https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8
 
-#EXTINF:0 CUID="102" tvg-name="The Judge Judy Channel" tvg-id="6283d51144ad8f0007fa382d" tvg-logo="https://images.pluto.tv/channels/6283d51144ad8f0007fa382d/colorLogoPNG.png" group-title="ENTERTAlNMENT",The Judge Judy Channel
+#EXTINF:0 CUID="102" tvg-name="The Judge Judy Channel" tvg-id="6283d51144ad8f0007fa382d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thejudgejudy.png" group-title="ENTERTAlNMENT",The Judge Judy Channel
 https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
 
-#EXTINF:0 CUID="103" tvg-name="BET x Tyler Perry Comedy" tvg-id="666b265722acab000885c6aa" tvg-logo="https://images.pluto.tv/channels/666b265722acab000885c6aa/colorLogoPNG.png" group-title="ENTERTAlNMENT",BET x Tyler Perry Comedy
+#EXTINF:0 CUID="103" tvg-name="BET x Tyler Perry Comedy" tvg-id="666b265722acab000885c6aa" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tylerperrycomedy.png" group-title="ENTERTAlNMENT",BET x Tyler Perry Comedy
 https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8
 
-#EXTINF:0 CUID="104" tvg-name="Black Throwbacks" tvg-id="61326275b3c86a00078e4833" tvg-logo="https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG.png" group-title="ENTERTAlNMENT",Black Throwbacks
+#EXTINF:0 CUID="104" tvg-name="Black Throwbacks" tvg-id="61326275b3c86a00078e4833" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/blackthrowback.png" group-title="ENTERTAlNMENT",Black Throwbacks
 https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
 
-#EXTINF:0 CUID="105" tvg-name="British Comedy" tvg-id="60f870184865da00074210ee" tvg-logo="https://images.pluto.tv/channels/60f870184865da00074210ee/colorLogoPNG.png" group-title="ENTERTAlNMENT",British Comedy
+#EXTINF:0 CUID="105" tvg-name="British Comedy" tvg-id="60f870184865da00074210ee" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/britishcomedy.png" group-title="ENTERTAlNMENT",British Comedy
 https://jmp2.uk/plu-60f870184865da00074210ee.m3u8
 
-#EXTINF:0 CUID="106" tvg-name="Cheers + Frasier" tvg-id="66ba495ffe11e5000881f049" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="ENTERTAlNMENT",Cheers + Frasier
+#EXTINF:0 CUID="106" tvg-name="Cheers + Frasier" tvg-id="66ba495ffe11e5000881f049" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cheersfrasier.png" group-title="ENTERTAlNMENT",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 
-#EXTINF:0 CUID="107" tvg-name="Comedy Central Animation" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="ENTERTAlNMENT",Comedy Central Animation
+#EXTINF:0 CUID="107" tvg-name="Comedy Central Animation" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/comedycentralanimation.png" group-title="ENTERTAlNMENT",Comedy Central Animation
 https://jmp2.uk/plu-5f99e24636d67d0007a94e6d.m3u8
 
-#EXTINF:0 CUID="108" tvg-name="Comedy Central ENTERTAlNMENT" tvg-id="5ca671f215a62078d2ec0abf" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="ENTERTAlNMENT",Comedy Central ENTERTAINMENT
+#EXTINF:0 CUID="108" tvg-name="Comedy Central ENTERTAlNMENT" tvg-id="5ca671f215a62078d2ec0abf" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/comedycentral.png" group-title="ENTERTAlNMENT",Comedy Central ENTERTAINMENT
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 
-#EXTINF:0 CUID="109" tvg-name="FailArmy" tvg-id="554158e864526b29254ff105" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="ENTERTAlNMENT",FailArmy
+#EXTINF:0 CUID="109" tvg-name="FailArmy" tvg-id="554158e864526b29254ff105" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/failarmy.png" group-title="ENTERTAlNMENT",FailArmy
 https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
 
-#EXTINF:0 CUID="110" tvg-name="Funny AF" tvg-id="580e87ff497c73ba2f321dd3" tvg-logo="https://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/colorLogoPNG.png" group-title="ENTERTAlNMENT",Funny AF
+#EXTINF:0 CUID="110" tvg-name="Funny AF" tvg-id="580e87ff497c73ba2f321dd3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/funnyaf.png" group-title="ENTERTAlNMENT",Funny AF
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 
-#EXTINF:0 CUID="111" tvg-name="Hit Sitcoms" tvg-id="66e0b4a3f0f17500085cc268" tvg-logo="https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png" group-title="ENTERTAlNMENT",Hit Sitcoms
+#EXTINF:0 CUID="111" tvg-name="Hit Sitcoms" tvg-id="66e0b4a3f0f17500085cc268" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsitcoms.png" group-title="ENTERTAlNMENT",Hit Sitcoms
 https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
 
-#EXTINF:0 CUID="112" tvg-name="Kevin Hart’s LOL! Network" tvg-id="5af09e645126c2157123f9eb" tvg-logo="https://images.pluto.tv/channels/5af09e645126c2157123f9eb/colorLogoPNG.png" group-title="ENTERTAlNMENT",Kevin Hart’s LOL! Network
+#EXTINF:0 CUID="112" tvg-name="Kevin Hart’s LOL! Network" tvg-id="5af09e645126c2157123f9eb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lolnetwork.png" group-title="ENTERTAlNMENT",Kevin Hart’s LOL! Network
 https://jmp2.uk/plu-5af09e645126c2157123f9eb.m3u8
 
-#EXTINF:0 CUID="113" tvg-name="More TV Sitcoms" tvg-id="6132619f9ddaa50007e7dd86" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="ENTERTAlNMENT",More TV Sitcoms
+#EXTINF:0 CUID="113" tvg-name="More TV Sitcoms" tvg-id="6132619f9ddaa50007e7dd86" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moretvsitcom.png" group-title="ENTERTAlNMENT",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 
-#EXTINF:0 CUID="114" tvg-name="MST3K" tvg-id="545943f1c9f133a519bbac92" tvg-logo="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png" group-title="ENTERTAlNMENT",MST3K
+#EXTINF:0 CUID="114" tvg-name="MST3K" tvg-id="545943f1c9f133a519bbac92" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mst3k.png" group-title="ENTERTAlNMENT",MST3K
 https://jmp2.uk/plu-545943f1c9f133a519bbac92.m3u8
 
-#EXTINF:0 CUID="115" tvg-name="ENTERTAINMENT Pranks" tvg-id="60f86f539f03cd00070c503a" tvg-logo="https://images.pluto.tv/channels/60f86f539f03cd00070c503a/colorLogoPNG.png" group-title="ENTERTAlNMENT",ENTERTAINMENT Pranks
+#EXTINF:0 CUID="115" tvg-name="ENTERTAINMENT Pranks" tvg-id="60f86f539f03cd00070c503a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/prank.png" group-title="ENTERTAlNMENT",ENTERTAINMENT Pranks
 https://jmp2.uk/plu-60f86f539f03cd00070c503a.m3u8
 
-#EXTINF:0 CUID="116" tvg-name="RiffTrax" tvg-id="58d947b9e420d8656ee101ab" tvg-logo="https://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png" group-title="ENTERTAlNMENT",RiffTrax
+#EXTINF:0 CUID="116" tvg-name="RiffTrax" tvg-id="58d947b9e420d8656ee101ab" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rifftrax.png" group-title="ENTERTAlNMENT",RiffTrax
 https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 
-#EXTINF:0 CUID="117" tvg-name="Sitcom Legends" tvg-id="633354b63df9700007f6a1b7" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" group-title="ENTERTAlNMENT",Sitcom Legends
+#EXTINF:0 CUID="117" tvg-name="Sitcom Legends" tvg-id="633354b63df9700007f6a1b7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sitcomlegend.png" group-title="ENTERTAlNMENT",Sitcom Legends
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
 
-#EXTINF:0 CUID="118" tvg-name="Slightly Off IFC" tvg-id="5e82547b6b3df60007fec2b5" tvg-logo="https://images.pluto.tv/channels/5e82547b6b3df60007fec2b5/colorLogoPNG.png" group-title="ENTERTAlNMENT",Slightly Off IFC
+#EXTINF:0 CUID="118" tvg-name="Slightly Off IFC" tvg-id="5e82547b6b3df60007fec2b5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ifc.png" group-title="ENTERTAlNMENT",Slightly Off IFC
 https://jmp2.uk/plu-5e82547b6b3df60007fec2b5.m3u8
 
-#EXTINF:0 CUID="119" tvg-name="Stand-Up TV" tvg-id="5637d31f319573e26b64040b" tvg-logo="https://images.pluto.tv/channels/5637d31f319573e26b64040b/colorLogoPNG.png" group-title="ENTERTAlNMENT",Stand-Up TV
+#EXTINF:0 CUID="119" tvg-name="Stand-Up TV" tvg-id="5637d31f319573e26b64040b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/standup.png" group-title="ENTERTAlNMENT",Stand-Up TV
 https://jmp2.uk/plu-5637d31f319573e26b64040b.m3u8
 
-#EXTINF:0 CUID="120" tvg-name="Tosh.0" tvg-id="5dae084727c8af0009fe40a4" tvg-logo="https://images.pluto.tv/channels/5dae084727c8af0009fe40a4/colorLogoPNG_1731837283801.png" group-title="ENTERTAlNMENT",Tosh.0
+#EXTINF:0 CUID="120" tvg-name="Tosh.0" tvg-id="5dae084727c8af0009fe40a4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tosh.o.png" group-title="ENTERTAlNMENT",Tosh.0
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 
-#EXTINF:0 CUID="121" tvg-name="TV Land Sitcoms" tvg-id="5c2d64ffbdf11b71587184b8" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="ENTERTAlNMENT",TV Land Sitcoms
+#EXTINF:0 CUID="121" tvg-name="TV Land Sitcoms" tvg-id="5c2d64ffbdf11b71587184b8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvlandsitcom.png" group-title="ENTERTAlNMENT",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
-#EXTINF:0 CUID="122" tvg-name="Wild 'N Out" tvg-id="5d48678d34ceb37d3c458a55" tvg-logo="https://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoPNG.png" group-title="ENTERTAlNMENT",Wild 'N Out
+#EXTINF:0 CUID="122" tvg-name="Wild 'N Out" tvg-id="5d48678d34ceb37d3c458a55" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wildnout.png" group-title="ENTERTAlNMENT",Wild 'N Out
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 
-#EXTINF:0 CUID="131" tvg-name="Dynasty" tvg-id="64d1606b4c5ed80008e3b8b9" tvg-logo="https://images.pluto.tv/channels/64d1606b4c5ed80008e3b8b9/colorLogoPNG_1731835571308.png" group-title="ENTERTAlNMENT",Dynasty
+#EXTINF:0 CUID="131" tvg-name="Dynasty" tvg-id="64d1606b4c5ed80008e3b8b9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dynasty.png" group-title="ENTERTAlNMENT",Dynasty
 https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 
-#EXTINF:0 CUID="132" tvg-name="Family Ties" tvg-id="5f77939a630f530007dde654" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="ENTERTAlNMENT",Family Ties
+#EXTINF:0 CUID="132" tvg-name="Family Ties" tvg-id="5f77939a630f530007dde654" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/familyties.png" group-title="ENTERTAlNMENT",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 
-#EXTINF:0 CUID="133" tvg-name="Happy Days" tvg-id="5f7794162a4559000781fc12" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="ENTERTAlNMENT",Happy Days
+#EXTINF:0 CUID="133" tvg-name="Happy Days" tvg-id="5f7794162a4559000781fc12" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/happydays.png" group-title="ENTERTAlNMENT",Happy Days
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 
-#EXTINF:0 CUID="134" tvg-name="I Love Lucy" tvg-id="634f3011f4fff20007431641" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png" group-title="ENTERTAlNMENT",I Love Lucy
+#EXTINF:0 CUID="134" tvg-name="I Love Lucy" tvg-id="634f3011f4fff20007431641" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ilovelucy.png" group-title="ENTERTAlNMENT",I Love Lucy
 https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
 
-#EXTINF:0 CUID="135" tvg-name="Little House on the Prairie" tvg-id="654933ac986ad20008a1f406" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="ENTERTAlNMENT",Little House on the Prairie
+#EXTINF:0 CUID="135" tvg-name="Little House on the Prairie" tvg-id="654933ac986ad20008a1f406" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/littlehouseontheprairie.png" group-title="ENTERTAlNMENT",Little House on the Prairie
 https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 
-#EXTINF:0 CUID="136" tvg-name="Matlock" tvg-id="60f754f98185580007eb0754" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG_1731836706925.png" group-title="ENTERTAlNMENT",Matlock
+#EXTINF:0 CUID="136" tvg-name="Matlock" tvg-id="60f754f98185580007eb0754" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/matlock.png" group-title="ENTERTAlNMENT",Matlock
 https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
 
-#EXTINF:0 CUID="138" tvg-name="She Wrote" tvg-id="6549337183595c000815ad05" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="ENTERTAlNMENT",She Wrote
+#EXTINF:0 CUID="138" tvg-name="She Wrote" tvg-id="6549337183595c000815ad05" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/murdershewrote.png" group-title="ENTERTAlNMENT",She Wrote
 https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
 
-#EXTINF:0 CUID="139" tvg-name="Perry Mason" tvg-id="6197086891ddd4000739941a" tvg-logo="https://images.pluto.tv/channels/6197086891ddd4000739941a/colorLogoPNG_1731835750293.png" group-title="ENTERTAlNMENT",Perry Mason
+#EXTINF:0 CUID="139" tvg-name="Perry Mason" tvg-id="6197086891ddd4000739941a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/perrymason.png" group-title="ENTERTAlNMENT",Perry Mason
 https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
 
-#EXTINF:0 CUID="140" tvg-name="The Addams Family" tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="ENTERTAlNMENT",The Addams Family
+#EXTINF:0 CUID="140" tvg-name="The Addams Family" tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/theaddamsfamily.png" group-title="ENTERTAlNMENT",The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 
-#EXTINF:0 CUID="141" tvg-name="The Andy Griffith Show" tvg-id="60f75178e7f8aa0007e9c259" tvg-logo="https://images.pluto.tv/channels/60f75178e7f8aa0007e9c259/colorLogoPNG.png" group-title="ENTERTAlNMENT",The Andy Griffith Show
+#EXTINF:0 CUID="141" tvg-name="The Andy Griffith Show" tvg-id="60f75178e7f8aa0007e9c259" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/theandygriffinshow.png" group-title="ENTERTAlNMENT",The Andy Griffith Show
 https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 
-#EXTINF:0 CUID="142" tvg-name="The Bob Ross Channel" tvg-id="5f36d726234ce10007784f2a" tvg-logo="https://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png" group-title="ENTERTAlNMENT",The Bob Ross Channel
+#EXTINF:0 CUID="142" tvg-name="The Bob Ross Channel" tvg-id="5f36d726234ce10007784f2a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thebobrosschannel.png" group-title="ENTERTAlNMENT",The Bob Ross Channel
 https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
 
-#EXTINF:0 CUID="143" tvg-name="The Love Boat" tvg-id="5f7794a788d29000079d2f07" tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png" group-title="ENTERTAlNMENT",The Love Boat
+#EXTINF:0 CUID="143" tvg-name="The Love Boat" tvg-id="5f7794a788d29000079d2f07" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/loveboat.png" group-title="ENTERTAlNMENT",The Love Boat
 https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 
-#EXTINF:0 CUID="144" tvg-name="Three's Company" tvg-id="5ef3977e5d773400077de284" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG_1731835807101.png" group-title="ENTERTAlNMENT",Three's Company
+#EXTINF:0 CUID="144" tvg-name="Three's Company" tvg-id="5ef3977e5d773400077de284" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/threecompany.png" group-title="ENTERTAlNMENT",Three's Company
 https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 
-#EXTINF:0 CUID="146" tvg-name="Big Brother" tvg-id="6661f11a41af6400080e90d8" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="ENTERTAlNMENT",Big Brother
+#EXTINF:0 CUID="146" tvg-name="Big Brother" tvg-id="6661f11a41af6400080e90d8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bigbrother.png" group-title="ENTERTAlNMENT",Big Brother
 https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
 
-#EXTINF:0 CUID="147" tvg-name="DCC: Making the Team" tvg-id="5d40855b3fb0855028c99b6f" tvg-logo="https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png" group-title="ENTERTAlNMENT",DCC: Making the Team
+#EXTINF:0 CUID="147" tvg-name="DCC: Making the Team" tvg-id="5d40855b3fb0855028c99b6f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/makingtheteam.png" group-title="ENTERTAlNMENT",DCC: Making the Team
 https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
 
 
@@ -4127,7 +4120,7 @@ https://jmp2.uk/plu-65a6dafb7bdc8d0008473c85.m3u8
 #EXTINF:0 CUID="59" tvg-name="The Rifleman" tvg-id="5e825550e758c700077b0aef" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/therifleman.png" group-title="MOVlES",The Rifleman
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 
-#EXTINF:0 CUID="60" tvg-name="The Wild Wild West" tvg-id="664e640a0120f40008be4582" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wildwildwest.png" group-title="MOVlES",The Wild Wild West
+#EXTINF:0 CUID="60" tvg-name="The Wild Wild West" tvg-id="664e640a0120f40008be4582" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thewildwildwest.png" group-title="MOVlES",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 
 #EXTINF:0 CUID="61" tvg-name="Wanted: Dead or Alive" tvg-id="6089788de5c8410007808e26" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wanteddeadoralive.png" group-title="MOVlES",Wanted: Dead or Alive
@@ -4400,10 +4393,10 @@ https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:0 CUID="194" tvg-name="Universal Action" tvg-id="654933e253fc970008390114" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/universalaction.png" group-title="DRAMA",Universal Action
 https://jmp2.uk/plu-654933e253fc970008390114.m3u8
 
-#EXTINF:0 CUID="76" tvg-name="ENTERTAINMENT Drama" tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/entertainmentdrama.png" group-title="DRAMA",ENTERTAINMENT Drama
+#EXTINF:0 CUID="76" tvg-name="ENTERTAINMENT Drama" tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/drama.png" group-title="DRAMA",ENTERTAINMENT Drama
 https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
 
-#EXTINF:0 CUID="75" tvg-name="ENTERTAINMENT Comedy" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/entertainmentcomedy.png" group-title="DRAMA",ENTERTAINMENT Comedy
+#EXTINF:0 CUID="75" tvg-name="ENTERTAINMENT Comedy" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/comedy.png" group-title="DRAMA",ENTERTAINMENT Comedy
 https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
 
 #EXTINF:0 CUID="78" tvg-name="ENTERTAINMENT Reaction" tvg-id="617b37b361e0fd0008cfd8c5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/reaction.png" group-title="DRAMA",ENTERTAINMENT Reaction
@@ -4421,25 +4414,23 @@ https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 #EXTINF:0 CUID="123" tvg-name="Beverly Hillbillies" tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hillybillies.png" group-title="DRAMA",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 
-#EXTINF:0 CUID="124" tvg-name="Black Classics" tvg-id="60f85644a9493e0007a1f035" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/blackclassics.png" group-title="DRAMA",Black Classics
-https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
 
 #EXTINF:0 CUID="125" tvg-name="Classic Movies Channel" tvg-id="66df6c7bdd2d690008c21b66" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicmovies.png" group-title="DRAMA",Classic Movies Channel
 https://jmp2.uk/plu-66df6c7bdd2d690008c21b66.m3u8
 
-#EXTINF:0 CUID="126" tvg-name="Classic TV Comedy" tvg-id="5f15e32b297f96000768f928" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classictvcomedy.png" group-title="DRAMA",Classic TV Comedy
+#EXTINF:0 CUID="126" tvg-name="Classic TV Comedy" tvg-id="5f15e32b297f96000768f928" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classiccomedy.png" group-title="DRAMA",Classic TV Comedy
 https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
 
-#EXTINF:0 CUID="127" tvg-name="Classic TV Crime Drama" tvg-id="61325c4f982acd000723287e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classictvcrimedrama.png" group-title="DRAMA",Classic TV Crime Drama
+#EXTINF:0 CUID="127" tvg-name="Classic TV Crime Drama" tvg-id="61325c4f982acd000723287e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classiccrimedrama.png" group-title="DRAMA",Classic TV Crime Drama
 https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
 
-#EXTINF:0 CUID="128" tvg-name="Classic TV Drama" tvg-id="5f15e3cccf49290007053c67" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classictvdrama.png" group-title="DRAMA",Classic TV Drama
+#EXTINF:0 CUID="128" tvg-name="Classic TV Drama" tvg-id="5f15e3cccf49290007053c67" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicdrama.png" group-title="DRAMA",Classic TV Drama
 https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
 
-#EXTINF:0 CUID="129" tvg-name="Classic TV Variety" tvg-id="64d1867c6b1fdb0008c6c95b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classictvvarietytv.png" group-title="DRAMA",Classic TV Variety
+#EXTINF:0 CUID="129" tvg-name="Classic TV Variety" tvg-id="64d1867c6b1fdb0008c6c95b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicvarietytv.png" group-title="DRAMA",Classic TV Variety
 https://jmp2.uk/plu-64d1867c6b1fdb0008c6c95b.m3u8
 
-#EXTINF:0 CUID="130" tvg-name="Classic TV: Families" tvg-id="61325d18f5166c00081b84e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classictvfamilies.png" group-title="DRAMA",Classic TV: Families
+#EXTINF:0 CUID="130" tvg-name="Classic TV: Families" tvg-id="61325d18f5166c00081b84e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicfamilies.png" group-title="DRAMA",Classic TV: Families
 https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 
 
@@ -4519,120 +4510,120 @@ https://fl3.moveonjoy.com/NICK_JR/tracks-v1a1/mono.m3u8
 https://fl1.moveonjoy.com/NICKTOONS/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="6452c814939a590008567a3b" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" group-title="KlDS", 90's Kids
+#EXTINF:-1 tvg-id="6452c814939a590008567a3b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" group-title="KlDS", 90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 
-#EXTINF:-1 tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" group-title="KlDS", Baby Shark TV
+#EXTINF:-1 tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60faffc3fbbc120007fc4376.png" group-title="KlDS", Baby Shark TV
 https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
 
-#EXTINF:-1 tvg-id="60493283ffc52f000710edae" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="KlDS", Bebecito Bum y sus amigos
+#EXTINF:-1 tvg-id="60493283ffc52f000710edae" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60493283ffc52f000710edae.png" group-title="KlDS", Bebecito Bum y sus amigos
 https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
 
-#EXTINF:-1 tvg-id="66fedd65d7de140008dccd66" tvg-logo="https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png" group-title="KlDS", El Reino Infantil
+#EXTINF:-1 tvg-id="66fedd65d7de140008dccd66" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/66fedd65d7de140008dccd66.png" group-title="KlDS", El Reino Infantil
 https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
 
-#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="KlDS", Forever Kids
+#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/56171fafada51f8004c4b40f.png" group-title="KlDS", Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 
-#EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="KlDS", Garfield and Friends
+#EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60faf9ddfcc1f200070a5932.png" group-title="KlDS", Garfield and Friends
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
 
-#EXTINF:-1 tvg-id="667f3852efa2a10008e1e514" tvg-logo="https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png" group-title="KlDS", Go Go Gadget!
+#EXTINF:-1 tvg-id="667f3852efa2a10008e1e514" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/667f3852efa2a10008e1e514.png" group-title="KlDS", Go Go Gadget!
 https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
 
-#EXTINF:-1 tvg-id="60fafef7c2440500071266e0" tvg-logo="https://images.pluto.tv/channels/60fafef7c2440500071266e0/colorLogoPNG.png" group-title="KlDS", Grande-ish
+#EXTINF:-1 tvg-id="60fafef7c2440500071266e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60fafef7c2440500071266e0.png" group-title="KlDS", Grande-ish
 https://jmp2.uk/plu-60fafef7c2440500071266e0.m3u8
 
-#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="KlDS", Kartoon Channel!
+#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60fb040d4795a6000762fe8f.png" group-title="KlDS", Kartoon Channel!
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 
-#EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="KlDS", Kids Movie Club
+#EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5db0ad56edc89300090d2ebb.png" group-title="KlDS", Kids Movie Club
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 
-#EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="KlDS", LEGO Kids TV
+#EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60fb01a24795a6000762fe83.png" group-title="KlDS", LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 
-#EXTINF:-1 tvg-id="5eb301b7395671000780d100" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="KlDS", Little Angel's Playroom
+#EXTINF:-1 tvg-id="5eb301b7395671000780d100" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5eb301b7395671000780d100.png" group-title="KlDS", Little Angel's Playroom
 https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
 
-#EXTINF:-1 tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="KlDS", Little Stars Universe
+#EXTINF:-1 tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/51c75f7bb6f26ba1cd00002f.png" group-title="KlDS", Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 
-#EXTINF:-1 tvg-id="65e23f340d4561000821540d" tvg-logo="https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png" group-title="KlDS", Mister Rogers' Neighborhood
+#EXTINF:-1 tvg-id="65e23f340d4561000821540d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/65e23f340d4561000821540d.png" group-title="KlDS", Mister Rogers' Neighborhood
 https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
 
-#EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="KlDS", Nick Jr. KIDS
+#EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5ca6748a37b88b269472dad9.png" group-title="KlDS", Nick Jr. KIDS
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
-#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="KlDS", Nickelodeon en español
+#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5d8d08395f39465da6fb3ec4.png" group-title="KlDS", Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 
-#EXTINF:-1 tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="KlDS", Nickelodeon KIDS
+#EXTINF:-1 tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5ca673e0d0bd6c2689c94ce3.png" group-title="KlDS", Nickelodeon KIDS
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
-#EXTINF:-1 tvg-id="5db0ae5af8797b00095c0794" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="KlDS", No Parents Allowed
+#EXTINF:-1 tvg-id="5db0ae5af8797b00095c0794" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5db0ae5af8797b00095c0794.png" group-title="KlDS", No Parents Allowed
 https://jmp2.uk/plu-5db0ae5af8797b00095c0794.m3u8
 
-#EXTINF:-1 tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" group-title="KlDS", Peppa Pig
+#EXTINF:-1 tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" group-title="KlDS", Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 
-#EXTINF:-1 tvg-id="5dae0a40e8ee0d000975e99b" tvg-logo="https://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" group-title="KlDS", pocket.watch Game-On
+#EXTINF:-1 tvg-id="5dae0a40e8ee0d000975e99b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5dae0a40e8ee0d000975e99b.png" group-title="KlDS", pocket.watch Game-On
 https://jmp2.uk/plu-5dae0a40e8ee0d000975e99b.m3u8
 
-#EXTINF:-1 tvg-id="6675c7868768aa0008d7f1c7" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" group-title="KlDS", Pokémon
+#EXTINF:-1 tvg-id="6675c7868768aa0008d7f1c7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/6675c7868768aa0008d7f1c7.png" group-title="KlDS", Pokémon
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
-#EXTINF:-1 tvg-id="60fb028c2e6a0c00075275a5" tvg-logo="https://images.pluto.tv/channels/60fb028c2e6a0c00075275a5/colorLogoPNG.png" group-title="KlDS", Rainbow Squad
+#EXTINF:-1 tvg-id="60fb028c2e6a0c00075275a5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60fb028c2e6a0c00075275a5.png" group-title="KlDS", Rainbow Squad
 https://jmp2.uk/plu-60fb028c2e6a0c00075275a5.m3u8
 
-#EXTINF:-1 tvg-id="5fb584b7613a31000789de5a" tvg-logo="https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" group-title="KlDS", Ryan and Friends
+#EXTINF:-1 tvg-id="5fb584b7613a31000789de5a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5fb584b7613a31000789de5a.png" group-title="KlDS", Ryan and Friends
 https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
 
-#EXTINF:-1 tvg-id="667f393836a2f90008fd17c0" tvg-logo="https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG.png" group-title="KlDS", Strawberry Shortcake and Friends
+#EXTINF:-1 tvg-id="667f393836a2f90008fd17c0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/667f393836a2f90008fd17c0.png" group-title="KlDS", Strawberry Shortcake and Friends
 https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
 
-#EXTINF:-1 tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://images.pluto.tv/channels/60f9ebb06f0b3d000746fbdb/colorLogoPNG.png" group-title="KlDS", Team Spirit
+#EXTINF:-1 tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60f9ebb06f0b3d000746fbdb.png" group-title="KlDS", Team Spirit
 https://jmp2.uk/plu-60f9ebb06f0b3d000746fbdb.m3u8
 
-#EXTINF:-1 tvg-id="6450209d939a5900084dba1d" tvg-logo="https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png" group-title="KlDS", Totally Teen
+#EXTINF:-1 tvg-id="6450209d939a5900084dba1d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/6450209d939a5900084dba1d.png" group-title="KlDS", Totally Teen
 https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 
-#EXTINF:-1 tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="KlDS", TOTALLY TURTLES
+#EXTINF:-1 tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5d0c16d686454ead733d08f8.png" group-title="KlDS", TOTALLY TURTLES
 https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 
-#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="KlDS", Transformers TV
+#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60fb053712f22a0007ff14d2.png" group-title="KlDS", Transformers TV
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 
-#EXTINF:-1 tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" group-title="KlDS", Zoom! Zoom!
+#EXTINF:-1 tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/6452c77ed3fdde00080eb3a8.png" group-title="KlDS", Zoom! Zoom!
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 
 
-#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="KlDS", TokuSHOUTsu
+#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5c3f8f12a93c2d61b9990a4e.png" group-title="KlDS", TokuSHOUTsu
 https://jmp2.uk/plu-5c3f8f12a93c2d61b9990a4e.m3u8
 
 
-#EXTINF:-1 tvg-id="6532e7fa045c3d0008514ca7" tvg-logo="https://images.pluto.tv/channels/6532e7fa045c3d0008514ca7/colorLogoPNG.png" group-title="KlDS", Warner Bros. TV Sweet Escapes
+#EXTINF:-1 tvg-id="6532e7fa045c3d0008514ca7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/6532e7fa045c3d0008514ca7.png" group-title="KlDS", Warner Bros. TV Sweet Escapes
 https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
 
-#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="KlDS", Anime All Day
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5812b7d3249444e05d09cc49.png" group-title="KlDS", Anime All Day
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 
-#EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" group-title="KlDS", Crunchyroll
+#EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/65652f7fc0fc88000883537a.png" group-title="KlDS", Crunchyroll
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 
-#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG-1731951032051.png" group-title="KlDS", Lupin the 3rd
+#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60f74ba51c82ac000776c669/colorLogoPNG-1731951032051.png" group-title="KlDS", Lupin the 3rd
 https://jmp2.uk/plu-60f74ba51c82ac000776c669.m3u8
 
-#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="KlDS", Naruto
+#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5da0c85bd2c9c10009370984.png" group-title="KlDS", Naruto
 https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
 
-#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" group-title="KlDS", One Piece
+#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" group-title="KlDS", One Piece
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
 
-#EXTINF:-1 tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="KlDS", Sailor Moon
+#EXTINF:-1 tvg-id="637e55347427a40007fac703" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/637e55347427a40007fac703.png" group-title="KlDS", Sailor Moon
 https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
 
-#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="KlDS", Yu-Gi-Oh!
+#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/5f4ec10ed9636f00089b8c89.png" group-title="KlDS", Yu-Gi-Oh!
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
 
