@@ -3373,6 +3373,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd 
 
 
+#EXTINF:-1 tvg-id="6532e7fa045c3d0008514ca7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/warner.png" group-title="ENTERTAlNMENT", WARNER BROS. TV SWEET ESCAPES
+https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
 
 
 
@@ -4549,7 +4551,7 @@ https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
 #EXTINF:-1 tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/littlestarsuniverse.png" group-title="KlDS", Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 
-#EXTINF:-1 tvg-id="65e23f340d4561000821540d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/misterrogersneigbourhood.png" group-title="KlDS", Mister Rogers' Neighborhood
+#EXTINF:-1 tvg-id="65e23f340d4561000821540d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/misterrogersneighbourhood.png" group-title="KlDS", Mister Rogers' Neighborhood
 https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
 
 #EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickjr.png" group-title="KlDS", Nick Jr. KIDS
@@ -4598,12 +4600,9 @@ https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 
 
-#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tokushoutsu.png" group-title="KlDS", TokuSHOUTsu
-https://jmp2.uk/plu-5c3f8f12a93c2d61b9990a4e.m3u8
 
 
-#EXTINF:-1 tvg-id="6532e7fa045c3d0008514ca7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/warner.png" group-title="KlDS", Warner Bros. TV Sweet Escapes
-https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
+
 
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animeallday.png" group-title="KlDS", Anime All Day
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
@@ -6841,11 +6840,6 @@ MUSIC
 
 
 
-#EXTINF:-1 tvg-id="JTV.id" group-title="MUSlC" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/jtv.png",JTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
-https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
 
 
@@ -6868,23 +6862,23 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
-#EXTINF:-1 tvg-id="one.music.de" tvg-name="DE106:ONE MUSIC" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/1mus.png" group-title="MUSlC",1MUS
+#EXTINF:-1 tvg-id="one.music.de" tvg-name="DE106:ONE MUSIC" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/1mus.png" group-title="MUSlC",1MUS
 #KODIPROP:inputstream.adaptive.stream_headers=referer=http://hz1.teleport.cc/HD.html//&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="TRACE.Urban.distro" group-title="MUSlC" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/traceurban.png", TRACE URBAN
+#EXTINF:-1 tvg-name="" tvg-id="TRACE.Urban.distro" group-title="MUSlC" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/traceurban.png", TRACE URBAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=10
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="now.90s.gb" tvg-name="UK240:NOW 90S " tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/nowrock.png" group-title="MUSlC",NOW ROCK
+#EXTINF:-1 tvg-id="now.90s.gb" tvg-name="UK240:NOW 90S " tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nowrock.png" group-title="MUSlC",NOW ROCK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=10
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DE088:MTV 80S" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/now80.png" group-title="MUSlC",NOW 80s
+#EXTINF:-1 tvg-id="" tvg-name="DE088:MTV 80S" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/now80s.png" group-title="MUSlC",NOW 80s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=10
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
@@ -6900,7 +6894,7 @@ https://fl3.moveonjoy.com/BET_Jams/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/BET_SOUL/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1781" tvg-name="CMT" tvg-id="CMT.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cmt.png" group-title="MUSlC",CMT USA
+#EXTINF:0 CUID="1781" tvg-name="CMT" tvg-id="CMT.us@East" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cmt.png" group-title="MUSlC",CMT USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/CMT/tracks-v1a1/mono.m3u8
 
@@ -6912,7 +6906,7 @@ https://fl3.moveonjoy.com/MTV_2/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/MTV_CLASSIC/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1830" tvg-name="MTV" tvg-id="MTV.be" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mtv.png" group-title="MUSlC",MTV USA
+#EXTINF:0 CUID="1830" tvg-name="MTV" tvg-id="MTV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtv.png" group-title="MUSlC",MTV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/MTV/tracks-v1a1/mono.m3u8
 
@@ -6920,25 +6914,25 @@ https://fl3.moveonjoy.com/MTV/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/MTV_LIVE/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1832" tvg-name="MTVU" tvg-id="MTV.be" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mtvu.png" group-title="MUSlC",MTVU
+#EXTINF:0 CUID="1832" tvg-name="MTVU" tvg-id="MTV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvu.png" group-title="MUSlC",MTVU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/MTV_U/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1842" tvg-name="NICK MUSIC" tvg-id="Nickmusic.hu" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/nickmusic.png" group-title="MUSlC",NICK MUSIC USA
+#EXTINF:0 CUID="1842" tvg-name="NICK MUSIC" tvg-id="Nickmusic.hu" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickmusic.png" group-title="MUSlC",NICK MUSIC USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/NICK_MUSIC/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1804" tvg-name="FUSE" tvg-id="Fuse.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/fuse.png" group-title="MUSlC",FUSE USA
+#EXTINF:0 CUID="1804" tvg-name="FUSE" tvg-id="Fuse.us@East" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fuse.png" group-title="MUSlC",FUSE USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/FUSE/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1877" tvg-name="VH1" tvg-id="VH1.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/vh1.png" group-title="MUSlC",VH1 USA
+#EXTINF:0 CUID="1877" tvg-name="VH1" tvg-id="VH1.us@East" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vh1.png" group-title="MUSlC",VH1 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/VH1/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:0 CUID="148" tvg-name="PLUTO MTV LIVE" tvg-id="718.astro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvlive.png" group-title="MUSlC",PLUTO MTV LIVE
+#EXTINF:0 CUID="148" tvg-name="PLUTO MTV LIVE" tvg-id="718.astro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutomtvlive.png" group-title="MUSlC",PLUTO MTV LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #EXTINF:0 CUID="149" tvg-name="Live MUSlC" tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/livemusic.png" group-title="MUSlC",Live Music
@@ -6953,7 +6947,7 @@ https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 #EXTINF:0 CUID="152" tvg-name="MTV Biggest Pop" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvbiggestpop.png" group-title="MUSlC",MTV Biggest Pop
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 
-#EXTINF:0 CUID="154" tvg-name="MTV Spankin' New" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvspankinnew.png" group-title="MUSlC",MTV Spankin' New
+#EXTINF:0 CUID="154" tvg-name="MTV Spankin' New" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spankinnew.png" group-title="MUSlC",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
 #EXTINF:0 CUID="155" tvg-name="Vevo '70s" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevo70s.png" group-title="MUSlC",Vevo '70s
@@ -6992,15 +6986,15 @@ https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
 #EXTINF:0 CUID="167" tvg-name="XITE Rock x Metal" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/xiterockxmetal.png" group-title="MUSlC",XITE Rock x Metal
 https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 
-#EXTINF:0 CUID="168" tvg-name="Yo! MTV" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/yo!mtv.png" group-title="MUSlC",Yo! MTV
+#EXTINF:0 CUID="168" tvg-name="Yo! MTV" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/yo!.png" group-title="MUSlC",Yo! MTV
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 
 
-#EXTINF:0 ch-number="437" tvg-name="MTV HITS" tvg-id="MTV.Hits.cz" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mtvhits.png" group-title="MUSlC",MTV HITS
+#EXTINF:0 ch-number="437" tvg-name="MTV HITS" tvg-id="MTV.Hits.cz" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvhits.png" group-title="MUSlC",MTV HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/53735.ts
 
-#EXTINF:0 ch-number="438" tvg-name="MTV UK" tvg-id="MTV.be" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mtv.png" group-title="MUSlC",MTV UK
+#EXTINF:0 ch-number="438" tvg-name="MTV UK" tvg-id="MTV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtv.png" group-title="MUSlC",MTV UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/53737.ts
 
