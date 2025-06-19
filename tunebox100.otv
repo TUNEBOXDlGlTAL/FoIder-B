@@ -1930,7 +1930,7 @@ CODE:403-FORBIDDEN
 
 
 
-#EXTM3U x-tvg-url="https://tunebox.space/epgsooka, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://tunebox.space/epgunifi, https://tunebox.space/epgastro, https://tunebox.space/epgrtm, https://tunebox.space/epgindo, https://tunebox.space/epgsg, https://epg.pw/xmltv/epg_SG.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_ID.xml.gz, https://bit.ly/moj-epg, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://i.mjh.nz/PlutoTV/all.xml" vod_library="https://tunebox.space/i̇i̇vod, https://tunebox.space/i̇i̇addon" 
+#EXTM3U x-tvg-url="https://tunebox.space/epgsooka, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://tunebox.space/epgunifi, https://tunebox.space/epgastro, https://tunebox.space/epgrtm, https://tunebox.space/epgindo, https://tunebox.space/epgsg, https://epg.pw/xmltv/epg_SG.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_ID.xml.gz, https://bit.ly/moj-epg, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://i.mjh.nz/PlutoTV/all.xml" vod_library="https://tunebox.space/i̇i̇vod, https://tunebox.space/i̇i̇addon" 
 
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="MALAYSlA",101 TV1
@@ -3079,7 +3079,7 @@ https://tunebox.space/i̇i̇football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://tunebox.space/i̇i̇badminton
 
-#EXTINF:-1 tvg-id="AstroBadminton2" ch-number="816" group-title="MALAYSlA;SPORTS" ch-number="816" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/badminton2.png",816 BADMINTON 2
+#EXTINF:-1 tvg-id="No.Game.Dummy.Scheduled.us" ch-number="816" group-title="MALAYSlA;SPORTS" ch-number="816" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/badminton2.png",816 BADMINTON 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F8Ga1nClV+aIJBnWkj+tJw","kid":"cq1uqhkEVAE4SH//o61lEA"}],"type":"temporary"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -3098,7 +3098,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/i̇i̇sportsplus
 
-#EXTINF:-1 tvg-id="818.astro" group-title="MALAYSlA;SPORTS" ch-number="818" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague4.png",818 PREMIER LEAGUE 4
+#EXTINF:-1 tvg-id="Premier.League.Dummy.us" group-title="MALAYSlA;SPORTS" ch-number="818" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague4.png",818 PREMIER LEAGUE 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -3106,7 +3106,7 @@ https://tunebox.space/i̇i̇sportsplus
 https://tunebox.space/i̇i̇premierleague3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 
-#EXTINF:-1 tvg-id="819.astro" group-title="MALAYSlA;SPORTS" ch-number="819" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague5.png",819 PREMIER LEAGUE 5
+#EXTINF:-1 tvg-id="Premier.League.Dummy.us" group-title="MALAYSlA;SPORTS" ch-number="819" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague5.png",819 PREMIER LEAGUE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -3545,8 +3545,6 @@ https://jmp2.uk/plu-5dcc42446750e200093b15e2.m3u8
 #EXTINF:0 CUID="87" tvg-name="ET" tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/et.png" group-title="ENTERTAlNMENT",ET
 https://jmp2.uk/plu-5dc0c78281eddb0009a02d5e.m3u8
 
-#EXTINF:0 CUID="88" tvg-name="FOX SOUL" tvg-id="60fb2c9c663b130008945ad0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsoul.png" group-title="ENTERTAlNMENT",FOX SOUL
-https://jmp2.uk/plu-60fb2c9c663b130008945ad0.m3u8
 
 
 #EXTINF:0 CUID="90" tvg-name="Warner Bros. TV Say Yes to the Dress" tvg-id="6532e8342cf13100083b404c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/warnertv.png" group-title="ENTERTAlNMENT",Warner Bros. TV Say Yes to the Dress
@@ -3913,10 +3911,6 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 #EXTINF:-1 tvg-id="434447" tvg-name="TVNMOVIESPINOY" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvnmovies.png" group-title="MOVlES",TVN MOVIES PH
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
-#EXTINF:-1 tvg-id="430120" tvg-name="LIFETIME HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/lifetime.png" group-title="MOVlES",LIFETIME PH
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4016,21 +4010,9 @@ https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1809" tvg-name="GETTV" tvg-id="GetTV.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/gettv.png" group-title="MOVlES",GETTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/GET_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1811" tvg-name="GRIT" tvg-id="Grit.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/grit.png" group-title="MOVlES",GRIT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/GRIT_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1816" tvg-name="INSP" tvg-id="INSP.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/insp.png" group-title="MOVlES",INSP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/INSP/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1820" tvg-name="LIFETIME" tvg-id="Lifetime.hk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/lifetime.png" group-title="MOVlES",LIFETIME USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/LIFETIME/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 CUID="1824" tvg-name="MGM+" tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mgm.png" group-title="MOVlES",MGM+ USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -4040,45 +4022,30 @@ https://fl3.moveonjoy.com/EPIX/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/EPIX_DRIVE_IN/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1866" tvg-name="SUNDANCE TV" tvg-id="SundanceTV.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sundancetv.png" group-title="MOVlES",SUNDANCE TV USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/SUNDANCE/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 CUID="1867" tvg-name="SYFY" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/syfy.png" group-title="MOVlES",SYFY USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/SYFY/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 CUID="1876" tvg-name="UP TV" tvg-id="UP.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/uptv.png" group-title="MOVlES",UP TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/Up_Tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 CUID="1880" tvg-name="WE TV" tvg-id="WE.(Women&apos;s.Entertainment).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/wetv.png" group-title="MOVlES",WE TV USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl1.moveonjoy.com/WE_TV/tracks-v1a1/mono.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenaction.png" group-title="MOVlES",RAKUTEN ACTION
+#EXTINF:-1 tvg-id="UK:.Action.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenaction.png" group-title="MOVlES",RAKUTEN ACTION
 https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8
 
 
-#EXTINF:-1 tvg-id="GB2600020OP" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutencomedy.png" group-title="MOVlES",RAKUTEN COMEDY  
+#EXTINF:-1 tvg-id="UK:.Comedy.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutencomedy.png" group-title="MOVlES",RAKUTEN COMEDY  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RCOMEDY.m3u8
 
-#EXTINF:-1 tvg-id="GB2600012R3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutendrama.png"  group-title="MOVlES",RAKUTEN DRAMA
+#EXTINF:-1 tvg-id="UK:.Drama.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutendrama.png"  group-title="MOVlES",RAKUTEN DRAMA
 https://raw.githubusercontent.com/mystery75/m3u8/main/RDRAMA.m3u8
 
-#EXTINF:-1 tvg-id="GB2600017PX" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenfamily.png" group-title="MOVlES",RAKUTEN FAMILY
+#EXTINF:-1 tvg-id="UK:.Family.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenfamily.png" group-title="MOVlES",RAKUTEN FAMILY
 https://raw.githubusercontent.com/mystery75/m3u8/main/RFAMILY.m3u8
 
-#EXTINF:-1 tvg-id="GB2600018PD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutentopmoviesi.png" group-title="MOVlES",RAKUTEN TOP MOVIES
+#EXTINF:-1 tvg-id="UK:.Top.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutentopmoviesi.png" group-title="MOVlES",RAKUTEN TOP MOVIES
 https://raw.githubusercontent.com/mystery75/m3u8/main/RTOPMOVIES.m3u8
 
-#EXTINF:-1 tvg-id="GB2600014LQ" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenromance.png"  group-title="MOVlES",RAKUTEN ROMANCE
+#EXTINF:-1 tvg-id="UK:.Romance.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenromance.png"  group-title="MOVlES",RAKUTEN ROMANCE
 https://jmp2.uk/sam-GB2600014LQ.m3u8
 
-#EXTINF:-1 tvg-id="GB2600013BO" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenscifi.png" group-title="MOVlES" tvg-chno="4975",RAKUTEN SCI-FI
+#EXTINF:-1 tvg-id="UK:.Sci-fi.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenscifi.png" group-title="MOVlES" tvg-chno="4975",RAKUTEN SCI-FI
 https://jmp2.uk/sam-GB2600013BO.m3u8
 
 
@@ -6659,9 +6626,31 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifesty
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
+#EXTINF:0 CUID="1811" tvg-name="GRIT" tvg-id="Grit.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/grit.png" group-title="LlFESTYLE",GRIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl3.moveonjoy.com/GRIT_TV/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:0 CUID="1820" tvg-name="" tvg-id="Lifetime.hk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/lifetime.png" group-title="LlFESTYLE",LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl3.moveonjoy.com/LIFETIME/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:0 CUID="1866" tvg-name="SUNDANCE TV" tvg-id="SundanceTV.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sundancetv.png" group-title="LlFESTYLE",SUNDANCE TV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl3.moveonjoy.com/SUNDANCE/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 CUID="1867" tvg-name="SYFY" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/syfy.png" group-title="LlFESTYLE",SYFY USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl3.moveonjoy.com/SYFY/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 CUID="1876" tvg-name="UP TV" tvg-id="UP.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/uptv.png" group-title="LlFESTYLE",UP TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl3.moveonjoy.com/Up_Tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 CUID="1880" tvg-name="WE TV" tvg-id="WE.TV.in" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/wetv.png" group-title="LlFESTYLE",WE TV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl1.moveonjoy.com/WE_TV/tracks-v1a1/mono.m3u8
 
 
 
@@ -6679,7 +6668,9 @@ https://fl3.moveonjoy.com/HSN/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/QVC/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:0 CUID="1809" tvg-name="GETTV" tvg-id="GetTV.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/gettv.png" group-title="LlFESTYLE",GETTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl3.moveonjoy.com/GET_TV/tracks-v1a1/mono.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6720,6 +6711,10 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_hd1.mpd
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
+#EXTINF:-1 tvg-id="430120" tvg-name="LIFETIME HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/lifetime.png" group-title="LlFESTYLE",LIFETIME PH
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
 
 
 
