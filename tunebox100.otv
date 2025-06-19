@@ -3079,7 +3079,7 @@ https://tunebox.space/i̇i̇football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://tunebox.space/i̇i̇badminton
 
-#EXTINF:-1 tvg-id="AstroBadminton2" ch-number="816" group-title="MALAYSIA;SPORTS" ch-number="816" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/badminton2.png",816 BADMINTON 2
+#EXTINF:-1 tvg-id="AstroBadminton2" ch-number="816" group-title="MALAYSlA;SPORTS" ch-number="816" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/badminton2.png",816 BADMINTON 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F8Ga1nClV+aIJBnWkj+tJw","kid":"cq1uqhkEVAE4SH//o61lEA"}],"type":"temporary"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -3098,7 +3098,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/i̇i̇sportsplus
 
-#EXTINF:-1 tvg-id="818.astro" group-title="MALAYSIA;SPORTS" ch-number="818" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague4.png",818 PREMIER LEAGUE 4
+#EXTINF:-1 tvg-id="818.astro" group-title="MALAYSlA;SPORTS" ch-number="818" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague4.png",818 PREMIER LEAGUE 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -3106,7 +3106,7 @@ https://tunebox.space/i̇i̇sportsplus
 https://tunebox.space/i̇i̇premierleague3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 
-;#EXTINF:-1 tvg-id="819.astro" group-title="MALAYSIA;SPORTS" ch-number="819" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague5.png",819 PREMIER LEAGUE 5
+#EXTINF:-1 tvg-id="819.astro" group-title="MALAYSlA;SPORTS" ch-number="819" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premierleague5.png",819 PREMIER LEAGUE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -3470,11 +3470,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDoma
 
 
 
-
-
-#EXTINF:0 ch-number="6464" tvg-name="FAMILY ENTERTAINMENT TELEVISION" tvg-id="feenttv.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/fetv.png" group-title="ENTERTAlNMENT",FAMILY ENTERTAINMENT TELEVISION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/172481.ts
 
 
 
@@ -4164,6 +4159,14 @@ https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:0 CUID="55" tvg-name="Classic Movie Westerns" tvg-id="61f33318210549000806a530" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/westerntv.png" group-title="MOVlES",Classic Movie Westerns
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 
+
+#EXTINF:0 CUID="125" tvg-name="Classic Movies Channel" tvg-id="66df6c7bdd2d690008c21b66" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicmovies.png" group-title="MOVlES",Classic Movies Channel
+https://jmp2.uk/plu-66df6c7bdd2d690008c21b66.m3u8
+
+
+
+
+
 #EXTINF:0 CUID="56" tvg-name="Gunsmoke" tvg-id="60f75771dfc72a00071fd0e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gunsmoke.png" group-title="MOVlES",Gunsmoke
 https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
 
@@ -4316,28 +4319,7 @@ https://fl3.moveonjoy.com/TV_ONE/tracks-v1a1/mono.m3u8
 https://fl3.moveonjoy.com/W_NETWORK/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 ch-number="400" tvg-name="SKY CINEMA DRAMA" tvg-id="Sky.Drama.HD.uk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skycinemadrama.png" group-title="DRAMA",SKY CINEMA DRAMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35251.ts
 
-
-#EXTINF:0 ch-number="424" tvg-name="DRAMA" tvg-id="Drama.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/drama.png" group-title="DRAMA",DRAMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53677.ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hits.png" group-title="DRAMA",HITS ID
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
-https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
-
-
-#EXTINF:-1 group-title="DRAMA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/citradrama.png",CITRA DRAMA
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
 
 
@@ -4471,8 +4453,6 @@ https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 
 
-#EXTINF:0 CUID="125" tvg-name="Classic Movies Channel" tvg-id="66df6c7bdd2d690008c21b66" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicmovies.png" group-title="DRAMA",Classic Movies Channel
-https://jmp2.uk/plu-66df6c7bdd2d690008c21b66.m3u8
 
 #EXTINF:0 CUID="126" tvg-name="Classic TV Comedy" tvg-id="5f15e32b297f96000768f928" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classiccomedy.png" group-title="DRAMA",Classic TV Comedy
 https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
@@ -4784,11 +4764,6 @@ https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8|referer=https://newembedplay
 https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 
-#EXTINF:0 ch-number="426" tvg-name="EUROSPORT 1 UK (P)" tvg-id="Eurosport.1.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport1.png" group-title="SPORTS",EUROSPORT 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53713.ts
-
-
 #EXTINF:-1 ch-number="823" tvg-id="823.astro" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spotv.png",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
@@ -4895,43 +4870,6 @@ https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c1
 https://windnew.newkso.ru/wind/premium274/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-#EXTINF:0 ch-number="450" tvg-name="SKY SPORTS ARENA" tvg-id="Sky.Sports+.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsarena.png" group-title="SPORTS",SKY SPORTS ARENA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35238.ts
-
-#EXTINF:0 ch-number="452" tvg-name="SKY SPORTS GOLF FHD" tvg-id="Sky.Sport.Golf.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsgolf.png" group-title="SPORTS",SKY SPORTS GOLF FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35240.ts
-
-#EXTINF:0 ch-number="453" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sktsportsmainevent.png" group-title="SPORTS",SKY SPORTS MAIN EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35243.ts
-
-#EXTINF:0 ch-number="455" tvg-name="SKY SPORTS NEWS" tvg-id="Sky.Sport.News.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsnews.png" group-title="SPORTS",SKY SPORTS NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35241.ts
-
-#EXTINF:0 ch-number="460" tvg-name="SKY SPORTS CRICKET FHD (D)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportscricket.png" group-title="SPORTS",SKY SPORTS CRICKET FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/45940.ts
-
-#EXTINF:0 ch-number="461" tvg-name="SKY SPORTS F1 FHD" tvg-id="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",SKY SPORTS F1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35244.ts
-
-#EXTINF:0 ch-number="462" tvg-name="SKY SP RACING FHD" tvg-id="SkyRacing1.au" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsracing.png" group-title="SPORTS",SKY SPORTS RACING FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/76842.ts
-
-
-#EXTINF:0 ch-number="449" tvg-name="SKY SPORTS ACTION" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsaction.png" group-title="SPORTS",SKY SPORTS ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53705.ts
-
-
-#EXTINF:0 ch-number="454" tvg-name="SKY SPORTS MIX FHD (D)" tvg-id="Sky.Sport.Mix.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsmix.png" group-title="SPORTS",SKY SPORTS MIX FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53706.ts
 
 
 #EXTINF:0 CUID="1869" tvg-name="TSN1" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn1.png" group-title="SPORTS",TSN1
@@ -5069,33 +5007,6 @@ https://dokko1new.newkso.ru/dokko1/premium606/mono.m3u8|referer=https://newembed
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/racingdubai.png" group-title="SPORTS",Dubai Racing 1 UAE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:0 ch-number="501" tvg-name="ESPN SEC NETWORK" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPN SEC NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/17608.ts
-
-#EXTINF:0 CUID="1797" tvg-name="ESPN U" tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPN U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:0 ch-number="293" tvg-name="CARIB ESPN" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",CARIB ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/66372.ts
-
-
-#EXTINF:0 ch-number="567" tvg-name="ESPN 2" tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/2210.ts
-
-#EXTINF:0 ch-number="569" tvg-name="ESPN 1 (HD)" tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPN 1 (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9802.ts
-
-#EXTINF:0 ch-number="570" tvg-name="ESPNU COLLEGE SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPNU COLLEGE SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/10255.ts
-
 
 #EXTINF:-1 tvg-id="Horizon.Sports.distro" ch-number="790" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/horizonsports.png",790 HORIZON SPORTS 
 #EXTGRP:SPORTS
@@ -5280,98 +5191,6 @@ https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
 
 #EXTINF:0 CUID="334" tvg-name="WOW – Women of Wrestling" tvg-id="66b66b9e14a2bb000872f606" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wow.png" group-title="SPORTS",WOW – Women of Wrestling
 https://jmp2.uk/plu-66b66b9e14a2bb000872f606.m3u8
-
-
-#EXTINF:0 ch-number="303" tvg-name="BALLY SPORTS FLORIDA (A)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ballysportsflorida.png" group-title="SPORTS",BALLY SPORTS FLORIDA (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/46794.ts
-
-
-#EXTINF:0 ch-number="474" tvg-name="WWE NETWORK" tvg-id="Home.Network.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wwenetework.png" group-title="SPORTS",WWE NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/11645.ts
-
-#EXTINF:0 ch-number="482" tvg-name="FANDUEL SPORTS WISCONSIN" tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fanduelsports.png" group-title="SPORTS",FANDUEL SPORTS WISCONSIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/78599.ts
-
-#EXTINF:0 ch-number="484" tvg-name="PTELEVEN SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/elevensports.png" group-title="SPORTS",PTELEVEN SPORTS 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35264.ts
-
-#EXTINF:0 ch-number="489" tvg-name="MASN (A)" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/masn.png" group-title="SPORTS",MASN (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/65697.ts
-
-#EXTINF:0 ch-number="490" tvg-name="MASN2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/masn.png" group-title="SPORTS",MASN2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/65698.ts
-
-#EXTINF:0 ch-number="491" tvg-name="MSG2 (F)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/msg.png" group-title="SPORTS",MSG2 (F)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/21089.ts
-
-
-
-
-
-
-#EXTINF:0 ch-number="504" tvg-name="TENNIS CHANNEL" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tennischannel.png" group-title="SPORTS",TENNIS CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/20184.ts
-
-#EXTINF:0 ch-number="505" tvg-name="YES NETWORK" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/yesnetwork.png" group-title="SPORTS",YES NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/57972.ts
-
-
-
-#EXTINF:0 ch-number="574" tvg-name="FOX SPORTS 1" tvg-id="FoxSports503.alt.au" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/foxsports1.png" group-title="SPORTS",FOX SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/1846.ts
-
-#EXTINF:0 ch-number="575" tvg-name="FOX SPORTS 2 (A)" tvg-id="FoxSports503.alt.au" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports2.png" group-title="SPORTS",FOX SPORTS 2 (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/1847.ts
-
-#EXTINF:0 ch-number="622" tvg-name="MSG PLUS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/msg.png" group-title="SPORTS",MSG PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9276.ts
-
-#EXTINF:0 ch-number="623" tvg-name="MSG (A)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/msg.png" group-title="SPORTS",MSG (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/21090.ts
-
-#EXTINF:0 ch-number="633" tvg-name="GOLF CHANNEL" tvg-id="Golf.Channel.cz" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/golfchannel.png" group-title="SPORTS",GOLF CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9806.ts
-
-
-
-
-
-
-#EXTINF:0 ch-number="713" tvg-name="ROOT SPORTS NETWORK" tvg-id="Court.Sports.Network.distro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rootsports.png" group-title="SPORTS",ROOT SPORTS NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/85232.ts
-
-
-#EXTINF:0 ch-number="524_7" tvg-name="ONE SOCCER" tvg-id="One.Soccer.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/onesports.png" group-title="SPORTS",ONE SOCCER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/135810.ts
-
-
-#EXTINF:0 ch-number="439" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mutv.png" group-title="SPORTS",MUTV
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-#EXTINF:0 ch-number="443" tvg-name="RACING UK" tvg-id="Racing.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/racingtv.png" group-title="SPORTS",RACING UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53741.ts
-
-
-
 
 
 
@@ -7076,20 +6895,6 @@ https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 
 
-#EXTINF:0 ch-number="437" tvg-name="MTV HITS" tvg-id="MTV.Hits.cz" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvhits.png" group-title="MUSlC",MTV HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53735.ts
-
-#EXTINF:0 ch-number="438" tvg-name="MTV UK" tvg-id="MTV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtv.png" group-title="MUSlC",MTV UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53737.ts
-
-
-
-
-#EXTINF:0 ch-number="436" tvg-name="MTV CLASSIC (A)" tvg-id="Classica.distro" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mtvclassic.png" group-title="MUSlC",MTV CLASSIC (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53734.ts
 
 
 
