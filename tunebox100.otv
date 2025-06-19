@@ -3602,7 +3602,7 @@ https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
 #EXTINF:0 CUID="110" tvg-name="Funny AF" tvg-id="580e87ff497c73ba2f321dd3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/funnyaf.png" group-title="ENTERTAlNMENT",Funny AF
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 
-#EXTINF:0 CUID="111" tvg-name="Hit Sitcoms" tvg-id="66e0b4a3f0f17500085cc268" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsitcoms.png" group-title="ENTERTAlNMENT",Hit Sitcoms
+#EXTINF:0 CUID="111" tvg-name="Hit Sitcoms" tvg-id="66e0b4a3f0f17500085cc268" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsitcom.png" group-title="ENTERTAlNMENT",Hit Sitcoms
 https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
 
 #EXTINF:0 CUID="112" tvg-name="Kevin Hart’s LOL! Network" tvg-id="5af09e645126c2157123f9eb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lolnetwork.png" group-title="ENTERTAlNMENT",Kevin Hart’s LOL! Network
@@ -3614,7 +3614,7 @@ https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 #EXTINF:0 CUID="114" tvg-name="MST3K" tvg-id="545943f1c9f133a519bbac92" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mst3k.png" group-title="ENTERTAlNMENT",MST3K
 https://jmp2.uk/plu-545943f1c9f133a519bbac92.m3u8
 
-#EXTINF:0 CUID="115" tvg-name="ENTERTAINMENT Pranks" tvg-id="60f86f539f03cd00070c503a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/prank.png" group-title="ENTERTAlNMENT",ENTERTAINMENT Pranks
+#EXTINF:0 CUID="115" tvg-name="ENTERTAINMENT Pranks" tvg-id="60f86f539f03cd00070c503a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pranks.png" group-title="ENTERTAlNMENT",ENTERTAINMENT Pranks
 https://jmp2.uk/plu-60f86f539f03cd00070c503a.m3u8
 
 #EXTINF:0 CUID="116" tvg-name="RiffTrax" tvg-id="58d947b9e420d8656ee101ab" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rifftrax.png" group-title="ENTERTAlNMENT",RiffTrax
@@ -3671,7 +3671,7 @@ https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 #EXTINF:0 CUID="142" tvg-name="The Bob Ross Channel" tvg-id="5f36d726234ce10007784f2a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thebobrosschannel.png" group-title="ENTERTAlNMENT",The Bob Ross Channel
 https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
 
-#EXTINF:0 CUID="143" tvg-name="The Love Boat" tvg-id="5f7794a788d29000079d2f07" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/loveboat.png" group-title="ENTERTAlNMENT",The Love Boat
+#EXTINF:0 CUID="143" tvg-name="The Love Boat" tvg-id="5f7794a788d29000079d2f07" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/theloveboat.png" group-title="ENTERTAlNMENT",The Love Boat
 https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 
 #EXTINF:0 CUID="144" tvg-name="Three's Company" tvg-id="5ef3977e5d773400077de284" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/threecompany.png" group-title="ENTERTAlNMENT",Three's Company
@@ -4039,7 +4039,7 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/RDRAMA.m3u8
 #EXTINF:-1 tvg-id="UK:.Family.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenfamily.png" group-title="MOVlES",RAKUTEN FAMILY
 https://raw.githubusercontent.com/mystery75/m3u8/main/RFAMILY.m3u8
 
-#EXTINF:-1 tvg-id="UK:.Top.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutentopmoviesi.png" group-title="MOVlES",RAKUTEN TOP MOVIES
+#EXTINF:-1 tvg-id="UK:.Top.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutentopfilm.png" group-title="MOVlES",RAKUTEN TOP MOVIES
 https://raw.githubusercontent.com/mystery75/m3u8/main/RTOPMOVIES.m3u8
 
 #EXTINF:-1 tvg-id="UK:.Romance.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenromance.png"  group-title="MOVlES",RAKUTEN ROMANCE
@@ -5099,7 +5099,7 @@ https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:0 CUID="314" tvg-name="GLORY Kickboxing" tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/glorykickboxing.png" group-title="SPORTS",GLORY Kickboxing
 https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
 
-#EXTINF:0 CUID="315" tvg-name="Golazo Network" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/golazonetwork.png" group-title="SPORTS",Golazo Network
+#EXTINF:0 CUID="315" tvg-name="Golazo Network" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/golazo.png" group-title="SPORTS",Golazo Network
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
 #EXTINF:0 CUID="316" tvg-name="GolfPass" tvg-id="65493029ab052400089e9d2f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/golfpass.png" group-title="SPORTS",GolfPass
@@ -5114,19 +5114,18 @@ https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
 #EXTINF:0 CUID="319" tvg-name="MotorTrend FAST TV" tvg-id="6400f731d200410008f9b339" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/motortrend.png" group-title="SPORTS",MotorTrend FAST TV
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 
-#EXTINF:0 CUID="320" tvg-name="NBC Sports" tvg-id="6549306c83595c000815a696" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nbcsports.png" group-title="SPORTS",NBC Sports
-https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
+
 
 #EXTINF:0 CUID="321" tvg-name="NFL Channel" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nflchannel.png" group-title="SPORTS",NFL Channel
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 
-#EXTINF:0 CUID="322" tvg-name="ONE Championship TV" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/onechampionship.png" group-title="SPORTS",ONE Championship TV
+#EXTINF:0 CUID="322" tvg-name="ONE Championship TV" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/onechampionshiptv.png" group-title="SPORTS",ONE Championship TV
 https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
 
-#EXTINF:0 CUID="323" tvg-name="PBR RidePass" tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbrridepass.png" group-title="SPORTS",PBR RidePass
+#EXTINF:0 CUID="323" tvg-name="PBR RidePass" tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ridepass.png" group-title="SPORTS",PBR RidePass
 https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 
-#EXTINF:0 CUID="324" tvg-name="PFL MMA" tvg-id="6334a574605f140007e233c4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pflmma.png" group-title="SPORTS",PFL MMA
+#EXTINF:0 CUID="324" tvg-name="PFL MMA" tvg-id="6334a574605f140007e233c4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pfl.png" group-title="SPORTS",PFL MMA
 https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
 
 #EXTINF:0 CUID="325" tvg-name="PGA TOUR" tvg-id="5de94dacb394a300099fa22a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pgatour.png" group-title="SPORTS",PGA TOUR
@@ -5138,22 +5137,21 @@ https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:0 CUID="327" tvg-name="POWERNATION" tvg-id="63b48016d9dd51000828fa37" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/powernation.png" group-title="SPORTS",POWERNATION
 https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
 
-#EXTINF:0 CUID="328" tvg-name="Speed Sport 1" tvg-id="6675b8ccca74680008563c24" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/speedspor.png" group-title="SPORTS",Speed Sport 1
-https://jmp2.uk/plu-6675b8ccca74680008563c24.m3u8
 
-#EXTINF:0 CUID="329" tvg-name="TNA Wrestling" tvg-id="59b722526996084038c01e1b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnawrestling.png" group-title="SPORTS",TNA Wrestling
+
+#EXTINF:0 CUID="329" tvg-name="TNA Wrestling" tvg-id="59b722526996084038c01e1b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnawrestler.png" group-title="SPORTS",TNA Wrestling
 https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
 
-#EXTINF:0 CUID="330" tvg-name="Top Rank Classics" tvg-id="64d160f53c785e0008df525e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/toprankclassics.png" group-title="SPORTS",Top Rank Classics
+#EXTINF:0 CUID="330" tvg-name="Top Rank Classics" tvg-id="64d160f53c785e0008df525e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/toprankclassic.png" group-title="SPORTS",Top Rank Classics
 https://jmp2.uk/plu-64d160f53c785e0008df525e.m3u8
 
 #EXTINF:0 CUID="331" tvg-name="Triton Poker" tvg-id="661827ffe8fba800086b217d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tritonpoker.png" group-title="SPORTS",Triton Poker
 https://jmp2.uk/plu-661827ffe8fba800086b217d.m3u8
 
-#EXTINF:0 CUID="332" tvg-name="UEFA Champions League" tvg-id="65ea8b928145cb0008509426" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/uefachampionsleague.png" group-title="SPORTS",UEFA Champions League
+#EXTINF:0 CUID="332" tvg-name="UEFA Champions League" tvg-id="65ea8b928145cb0008509426" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/uefa.png" group-title="SPORTS",UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
-#EXTINF:0 CUID="333" tvg-name="World Poker Tour" tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/worldpokertour.png" group-title="SPORTS",World Poker Tour
+#EXTINF:0 CUID="333" tvg-name="World Poker Tour" tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wpt.png" group-title="SPORTS",World Poker Tour
 https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
 
 #EXTINF:0 CUID="334" tvg-name="WOW – Women of Wrestling" tvg-id="66b66b9e14a2bb000872f606" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wow.png" group-title="SPORTS",WOW – Women of Wrestling
@@ -5404,7 +5402,7 @@ https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
 #EXTINF:0 CUID="12" tvg-name="Unsolved Mysteries" tvg-id="5b4e96a0423e067bd6df6901" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/unsolvedmysteries.png" group-title="DOCUMENTARY",Unsolved Mysteries
 https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
 
-#EXTINF:0 CUID="13" tvg-name="PBS Genealogy" tvg-id="65a6db580d9ab400080e6ab6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbsgenelogy.png" group-title="DOCUMENTARY",PBS Genealogy
+#EXTINF:0 CUID="13" tvg-name="PBS Genealogy" tvg-id="65a6db580d9ab400080e6ab6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbsgenealogy.png" group-title="DOCUMENTARY",PBS Genealogy
 https://jmp2.uk/plu-65a6db580d9ab400080e6ab6.m3u8
 
 #EXTINF:0 CUID="14" tvg-name="DOCUMENTARY History" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutohistory.png" group-title="DOCUMENTARY",DOCUMENTARY History
@@ -5428,7 +5426,7 @@ https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:0 CUID="20" tvg-name="60 Minutes" tvg-id="66b646f9cd0d3100086af83c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/60minutes.png" group-title="DOCUMENTARY",60 Minutes
 https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
 
-#EXTINF:0 CUID="22" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/modernmarvels.png" tvg-name="Modern Marvels Presented by HISTORY" tvg-id="65775d29dfed030008cb3db2" group-title="DOCUMENTARY",Modern Marvels Presented by HISTORY
+#EXTINF:0 CUID="22" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/modernmarvel.png" tvg-name="Modern Marvels Presented by HISTORY" tvg-id="65775d29dfed030008cb3db2" group-title="DOCUMENTARY",Modern Marvels Presented by HISTORY
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
 
 #EXTINF:0 CUID="23" tvg-name="MythBusters" tvg-id="66e0b4866ad04d0008fff4d8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mythbusters.png" group-title="DOCUMENTARY",MythBusters
@@ -6701,7 +6699,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
-#EXTINF:-1 tvg-id="Travel.Channel.ph" tvg-name="Travel.Channel.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/trvlchannel.png" group-title="LlFESTYLE",TRVL CHANNEL PH
+#EXTINF:-1 tvg-id="Travel.Channel.ph" tvg-name="Travel.Channel.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/travelchannel.png" group-title="LlFESTYLE",TRVL CHANNEL PH
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_hd1.mpd
 
 
@@ -6841,7 +6839,7 @@ https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 #EXTINF:0 CUID="150" tvg-name="Logo MUSlC" tvg-id="5ce5a8954311f992edbe1da2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/logo..png" group-title="MUSlC",Logo MUSIC
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 
-#EXTINF:0 CUID="151" tvg-name="MTV MUSlC" tvg-id="5ca672f515a62078d2ec0ad2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvmusic.png" group-title="MUSlC",MTV MUSIC
+#EXTINF:0 CUID="151" tvg-name="MTV MUSlC" tvg-id="5ca672f515a62078d2ec0ad2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtv.png" group-title="MUSlC",MTV MUSIC
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 
 #EXTINF:0 CUID="152" tvg-name="MTV Biggest Pop" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvbiggestpop.png" group-title="MUSlC",MTV Biggest Pop
